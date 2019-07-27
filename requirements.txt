@@ -1,0 +1,15 @@
+asn1crypto==0.24.0
+chardet==3.0.4
+nptime==1.1
+pafy==0.5.4
+progressbar==2.5
+pycosat==0.6.3
+PySocks==1.6.8
+pytest>=2.6.0
+ruamel-yaml==0.15.46
+ruamel.yaml==0.16.0
+ruamel.yaml.clib==0.1.0
+six==1.12.0
+tlslite==0.3.8
+urllib3>=1.21
+youtube-dl==2019.7.27
