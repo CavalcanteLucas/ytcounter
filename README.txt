@@ -1,5 +1,6 @@
 Hello user, 
-This programs tells how long will it take to finish a YouTube playlist.
+This programs tells you how long it will take for you to 
+finish your favorite YouTube playlist. Have fun.
 
 Input:
     - Valid YouTube playlist URL;
