@@ -5,7 +5,7 @@ url_playlist = input('Please provide a valid youtube playlist: ')
 ytc = YTCounter(url_playlist)
 
 #current = int(sys.argv[1])
-current = input('Please provide current progress: ')
+current = input('Please provide your current progress: ')
 
 ytc.progress(current)
 ytc.left(current)
