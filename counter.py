@@ -39,17 +39,20 @@ class YTCounter:
             duration = datetime.strptime(self.playlist[i].duration, '%H:%M:%S').time()
             duration = timedelta(minutes=duration.minute, seconds=duration.second)
             cummulative_duration += duration
-            info.append((duration,cummulative_duration,0))
+            info.append((duration,cummulative_duration,0,''))
             bar.update(int(i/2)+1)
             
         remaining_duration = info[self.playlist_len-1][1]
 
+        total_duration = cummulative_duration.to_timedelta().total_seconds()
         # part 2: 
         # computing remaining durations and file writing 
         for i in range(self.playlist_len):
             temp_list = list(info[i])
             temp_list[2] = remaining_duration - info[i][0]
             remaining_duration = temp_list[2]
+            progress = 100-(remaining_duration.to_timedelta().total_seconds()/total_duration)*100
+            temp_list[3] = '%.2f%%' % progress
             info[i] = tuple(temp_list)
             write_line = ' '.join(tuple(list(map(str,(info[i])))))
             file.write(write_line+'\n')
@@ -72,3 +75,10 @@ class YTCounter:
     #                     duration = datetime.strptime(line.strip('\n'), '%H:%M:%S').time()
     #                     duration = timedelta(minutes=duration.minute, seconds=duration.second)
     #         print('Remaining Time: {}'.format(cummulative_duration))
+
+    # TODO:
+    # > add header to logfile
+    # > add tests
+    # - second column must be increasing
+    # - third column must be decreasing
+    # - last element of third column must be 00:00:00
