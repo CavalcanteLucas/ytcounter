@@ -12,7 +12,7 @@ class YTCounter:
 
     def __init__(self, url_playlist):
         self.url_playlist = url_playlist
-        self.filename = ''.join((self.url_playlist.split('playlist?list=')[1],'.log'))
+        self.filename = ''.join((self.url_playlist.split('list=')[1],'.log'))
         if os.path.exists(self.filename):
             if os.stat(self.filename).st_size == 0:
                 os.remove(self.filename)
@@ -24,6 +24,7 @@ class YTCounter:
         print('Computing ...')
         print('Logfile: ')
         print(self.filename)
+        import ipdb; ipdb.set_trace()
         self.playlist = pafy.get_playlist2(self.url_playlist)
         self.playlist_len = len(self.playlist)
         bar = progressbar.ProgressBar(maxval=self.playlist_len, \
@@ -60,25 +61,3 @@ class YTCounter:
 
         file.close()
         bar.finish()
-
-    # obsolete
-    # def progress(self, current):
-    #     print('Current progress: {0:.2f}% Complete'.format((current-1)/self.playlist_len*100))
-
-    # obsolete
-    # def left(self, current):
-    #     if os.path.exists(self.filename):
-    #         with open(self.filename,'r') as file:
-    #             cummulative_duration = nptime(0,0)
-    #             for i, line in enumerate(file.readlines()):
-    #                 if i > current:
-    #                     duration = datetime.strptime(line.strip('\n'), '%H:%M:%S').time()
-    #                     duration = timedelta(minutes=duration.minute, seconds=duration.second)
-    #         print('Remaining Time: {}'.format(cummulative_duration))
-
-    # TODO:
-    # > add header to logfile
-    # > add tests
-    # - second column must be increasing
-    # - third column must be decreasing
-    # - last element of third column must be 00:00:00

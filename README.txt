@@ -9,18 +9,27 @@ Output:
     - Current progress in %;
     - Remaining time.
 
-Instructions:
+Instructions of use:
 
-1) install conda/miniconda:
-https://docs.conda.io/en/latest/miniconda.html
+1) Create and activate a new virtual environment:
+```
+$virtualenv venv
+$source venv/bin/activate
+```
 
-2) create a new environment:
-conda env create ytc
+2) Install requirements:
+```
+$pip install -r requirements.txt --user
+```
 
-3) install requirements:
-pip install -r requirements.txt --user
-
-4) run:
+3) Edit `example.py` with a valid URL and run:
 python example.py
 
 Please have a great day!
+
+TODO:
+> add header to logfile
+> add tests
+    - second column must be increasing
+    - third column must be decreasing
+    - last element of third column must be 00:00:00
