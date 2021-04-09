@@ -1,2 +1,6 @@
+# venv
 .venv
 venv/
+
+# oauth2 credentials
+client_secretes.jon
