@@ -1,0 +1,95 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "rlp6LcQDZheYaP2G9dJ0linEvwI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "C4tjD094Czb0M32yjKrzyZpqYk4",
+      "id": "xQnIN9bW0og",
+      "snippet": {
+        "publishedAt": "2019-02-08T15:31:59Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Introduction to NoSQL databases",
+        "description": "NoSQL is a popular database storage method. It keeps data as key value pairs. The advantages and disadvantages of NoSQL compared with RDBMS (which uses SQL) are discussed here, using the Cassandra architecture as an example.\n\nWe talk about sharding, redundancy, load balancing, compaction and some other features in NoSQL databases. This allows them to scale efficiently.\n\nPreparing for design Interviews? Check out the \"Grokking the system design interview\" course:\nhttps://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=4793322061168640\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nSystem Design Book:\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\n\nReferences:\nSharding: https://www.youtube.com/watch?v=5faMjKuB9bc\nLoad Balancing: https://www.youtube.com/watch?v=K0Ta65OqQkY\nEfficient merge sort: https://youtu.be/Yk4CBisILaw?t=80\nhttp://highscalability.com/blog\nCassandra Architecture: https://docs.datastax.com/en/cassandra/3.0/cassandra/architecture/archTOC.html\nCompaction: https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies\n\nBecome a channel member!\nhttps://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/join\n\n0:00 Intro\n1:08 NoSQL explanation and comparison\n10:27 Cassandra Architecture\n18:00 Quorum\n21:30 Compaction of SST tables\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_\n\n#NoSQL #Database #Cassandra",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xQnIN9bW0og/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xQnIN9bW0og/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQnIN9bW0og/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xQnIN9bW0og/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xQnIN9bW0og/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "interview preparation",
+          "software interview",
+          "problem solving",
+          "design interview",
+          "system design interview",
+          "nosql",
+          "why use nosql",
+          "why nosql",
+          "cassandra",
+          "what is cassandra",
+          "cassandra architecture",
+          "nosql database",
+          "nosql architecture",
+          "nosql benefits",
+          "nosql problems",
+          "nosql drawbacks",
+          "nosql explained",
+          "database",
+          "cassandra database",
+          "database interview",
+          "nosql features",
+          "cassandra features",
+          "gaurav sen",
+          "sorted string table",
+          "bigdata",
+          "big data"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Introduction to NoSQL databases",
+          "description": "NoSQL is a popular database storage method. It keeps data as key value pairs. The advantages and disadvantages of NoSQL compared with RDBMS (which uses SQL) are discussed here, using the Cassandra architecture as an example.\n\nWe talk about sharding, redundancy, load balancing, compaction and some other features in NoSQL databases. This allows them to scale efficiently.\n\nPreparing for design Interviews? Check out the \"Grokking the system design interview\" course:\nhttps://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=4793322061168640\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nSystem Design Book:\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\n\nReferences:\nSharding: https://www.youtube.com/watch?v=5faMjKuB9bc\nLoad Balancing: https://www.youtube.com/watch?v=K0Ta65OqQkY\nEfficient merge sort: https://youtu.be/Yk4CBisILaw?t=80\nhttp://highscalability.com/blog\nCassandra Architecture: https://docs.datastax.com/en/cassandra/3.0/cassandra/architecture/archTOC.html\nCompaction: https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies\n\nBecome a channel member!\nhttps://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/join\n\n0:00 Intro\n1:08 NoSQL explanation and comparison\n10:27 Cassandra Architecture\n18:00 Quorum\n21:30 Compaction of SST tables\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_\n\n#NoSQL #Database #Cassandra"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

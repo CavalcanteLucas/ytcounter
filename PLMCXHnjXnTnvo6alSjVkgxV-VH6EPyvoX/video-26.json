@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "q02jhvwdRWLKzRk6l9PHeXUj7h4",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "cmy0vJHHXVHr0tYD_JrX0FDi46c",
+      "id": "GOuVeZmMee0",
+      "snippet": {
+        "publishedAt": "2020-11-27T15:30:02Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Containers and Virtualisation in Cloud Computing",
+        "description": "Virtualisation of hardware and compute resources is a key idea when operating on the cloud. Containers allow us to scale applications faster and easier, while avoiding large initial investments and reducing maintenance costs.\n\nMore importantly, containers allow DevOps teams to run programs on heterogenous hardware with small start up times and better configuration capabilities than virtual machines.\n\nThis video is an introduction to the concept of virtual machines and containers.\n\n00:00 The problem\n01:00 Purchasing hardware\n01:47 Shared compute\n02:09 Compute resources\n03:19 Virtual Machines\n05:36 Containers\n\nSystem design video course:\nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nThe chapters have architectural diagrams and capacity estimates, along with subtitled videos. Use the coupon code of 'earlybird' to get a 20% discount. \n\nReferences:\nhttps://docs.docker.com/get-started/\nhttps://blog.cloudflare.com/cloud-computing-without-containers/\nhttps://engineering.fb.com/developer-tools/zookeeper-twine/\nhttps://docs.docker.com/get-started/overview/#docker-architecture\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_\n\n#softwareengineering #containers #virtualisation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GOuVeZmMee0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GOuVeZmMee0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GOuVeZmMee0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GOuVeZmMee0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GOuVeZmMee0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "interview preparation",
+          "interviews",
+          "software interview",
+          "coding interview",
+          "programming",
+          "gaurav sen",
+          "system design interview"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Containers and Virtualisation in Cloud Computing",
+          "description": "Virtualisation of hardware and compute resources is a key idea when operating on the cloud. Containers allow us to scale applications faster and easier, while avoiding large initial investments and reducing maintenance costs.\n\nMore importantly, containers allow DevOps teams to run programs on heterogenous hardware with small start up times and better configuration capabilities than virtual machines.\n\nThis video is an introduction to the concept of virtual machines and containers.\n\n00:00 The problem\n01:00 Purchasing hardware\n01:47 Shared compute\n02:09 Compute resources\n03:19 Virtual Machines\n05:36 Containers\n\nSystem design video course:\nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nThe chapters have architectural diagrams and capacity estimates, along with subtitled videos. Use the coupon code of 'earlybird' to get a 20% discount. \n\nReferences:\nhttps://docs.docker.com/get-started/\nhttps://blog.cloudflare.com/cloud-computing-without-containers/\nhttps://engineering.fb.com/developer-tools/zookeeper-twine/\nhttps://docs.docker.com/get-started/overview/#docker-architecture\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_\n\n#softwareengineering #containers #virtualisation"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

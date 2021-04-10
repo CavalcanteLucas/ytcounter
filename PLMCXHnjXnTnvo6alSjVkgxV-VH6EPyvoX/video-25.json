@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "hNHq4oEULm7mysYdyIq4r4W6oUU",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "6_T3DMSyQUrDKwnE--R5SBDY8ZI",
+      "id": "OcUKFIjhKu0",
+      "snippet": {
+        "publishedAt": "2020-08-21T15:30:03Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Google Maps Algorithm: Designing a location based database",
+        "description": "Location based databases are extensively used by apps like Google Maps, Uber and Swiggy. We explore the data structures and algorithms which allow spatial or location based queries, like the quad tree and the Hilbert Curve.\n\nFor now, we haven't dived deep into polygon intersections or R-trees.\n\nSystem design video course:\nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nCourse chapters: \n1) Design an email service like Gmail\n2) Design a rate limiter\n3) Design an audio search engine\n4) Design a calling app like WhatsApp\n5) Design and code a payment tracking app like Splitwise\n\nThe chapters have architectural diagrams and capacity estimates, along with subtitled videos. Use the coupon code of 'earlybird' to get a 20% discount. \n\nReferences:\nGoogle S2: https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/\nHilbert Curve: https://www.youtube.com/watch?v=3s7h2MHQtxc \nFractals: https://www.youtube.com/watch?v=gB9n2gHsHN4\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\nSegment Trees: https://youtu.be/W4KUVTjh8RQ\nZ-order curve: https://en.wikipedia.org/wiki/Z-order_curve\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OcUKFIjhKu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OcUKFIjhKu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OcUKFIjhKu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OcUKFIjhKu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OcUKFIjhKu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "interview preparation",
+          "interviews",
+          "software interview",
+          "coding interview",
+          "programming",
+          "gaurav sen",
+          "system design interview",
+          "grokking the system design interview",
+          "location based database",
+          "database design",
+          "hilbert curve",
+          "google maps",
+          "spatial database",
+          "spacial database",
+          "location based service"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google Maps Algorithm: Designing a location based database",
+          "description": "Location based databases are extensively used by apps like Google Maps, Uber and Swiggy. We explore the data structures and algorithms which allow spatial or location based queries, like the quad tree and the Hilbert Curve.\n\nFor now, we haven't dived deep into polygon intersections or R-trees.\n\nSystem design video course:\nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nCourse chapters: \n1) Design an email service like Gmail\n2) Design a rate limiter\n3) Design an audio search engine\n4) Design a calling app like WhatsApp\n5) Design and code a payment tracking app like Splitwise\n\nThe chapters have architectural diagrams and capacity estimates, along with subtitled videos. Use the coupon code of 'earlybird' to get a 20% discount. \n\nReferences:\nGoogle S2: https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/\nHilbert Curve: https://www.youtube.com/watch?v=3s7h2MHQtxc \nFractals: https://www.youtube.com/watch?v=gB9n2gHsHN4\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\nSegment Trees: https://youtu.be/W4KUVTjh8RQ\nZ-order curve: https://en.wikipedia.org/wiki/Z-order_curve\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT22M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

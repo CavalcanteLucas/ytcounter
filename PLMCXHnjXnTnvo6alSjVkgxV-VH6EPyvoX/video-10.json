@@ -1,0 +1,80 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "_Ry7-txy3_cznfvSvQ1VHClZ4rU",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "M1HVL5gIUP3dy8Fypy7ylFPAhd0",
+      "id": "vvhC64hQZMk",
+      "snippet": {
+        "publishedAt": "2019-01-22T15:22:30Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Whatsapp System Design: Chat Messaging Systems for Interviews",
+        "description": "The Whatsapp system architecture is a common system design interview question. This interview question asks us to select a set of features like sending chat messages, read receipts, group messaging and last seen visibility.\n\nThe chat system must be scalable and have other non functional requirements like message ordering, retrial, idempotency, load balancing and image sharing.\n\nSystem Design Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nAlong with video lectures, this course has architecture diagrams, capacity planning, API contracts and evaluation tests. It's a complete package.\n\nUse the coupon code 'earlybird' for a 20% discount.\n\nGrokking the system design interview: https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=4793322061168640\n\nCheck out the other system design videos on the channel here:\nhttps://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nReferences:\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\nhttps://spectrum.ieee.org/tech-talk/computing/software/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve\nhttp://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html\nhttp://highscalability.com/blog/2014/3/31/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html\nTinder video - https://youtu.be/tndzLznxq40\nSystem Design Playlist - https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\nLoad balancer - https://youtu.be/K0Ta65OqQkY\nConsistent Hashing - https://youtu.be/zaRkONvyGr8\nMessage Queues - https://youtu.be/oUJbuFMyBDk\nMessaging idempotency and ordering - https://youtu.be/WzBzYX1aSrU\n\nChapters\n0:00 Requirement Setting\n2:35 Image storage\n3:07 System Design\n15:00 Load balancer\n21:00 Consistent Hashing\n21:55 Message Queues\n23:05 Messaging idempotency and ordering\n\n#SystemDesign #DesignWhatsapp #gkcs\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nGitHub: https://github.com/coding-parrot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vvhC64hQZMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vvhC64hQZMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vvhC64hQZMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vvhC64hQZMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vvhC64hQZMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "interview preparation",
+          "interviews",
+          "software interview",
+          "coding interview",
+          "coding",
+          "coding question",
+          "problem solving",
+          "design interview",
+          "computer science",
+          "programming interview",
+          "gaurav sen"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Whatsapp System Design: Chat Messaging Systems for Interviews",
+          "description": "The Whatsapp system architecture is a common system design interview question. This interview question asks us to select a set of features like sending chat messages, read receipts, group messaging and last seen visibility.\n\nThe chat system must be scalable and have other non functional requirements like message ordering, retrial, idempotency, load balancing and image sharing.\n\nSystem Design Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nAlong with video lectures, this course has architecture diagrams, capacity planning, API contracts and evaluation tests. It's a complete package.\n\nUse the coupon code 'earlybird' for a 20% discount.\n\nGrokking the system design interview: https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=4793322061168640\n\nCheck out the other system design videos on the channel here:\nhttps://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nReferences:\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\nhttps://spectrum.ieee.org/tech-talk/computing/software/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve\nhttp://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html\nhttp://highscalability.com/blog/2014/3/31/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html\nTinder video - https://youtu.be/tndzLznxq40\nSystem Design Playlist - https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\nLoad balancer - https://youtu.be/K0Ta65OqQkY\nConsistent Hashing - https://youtu.be/zaRkONvyGr8\nMessage Queues - https://youtu.be/oUJbuFMyBDk\nMessaging idempotency and ordering - https://youtu.be/WzBzYX1aSrU\n\nChapters\n0:00 Requirement Setting\n2:35 Image storage\n3:07 System Design\n15:00 Load balancer\n21:00 Consistent Hashing\n21:55 Message Queues\n23:05 Messaging idempotency and ordering\n\n#SystemDesign #DesignWhatsapp #gkcs\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nGitHub: https://github.com/coding-parrot"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

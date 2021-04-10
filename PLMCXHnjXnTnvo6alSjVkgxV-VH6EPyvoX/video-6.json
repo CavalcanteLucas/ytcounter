@@ -1,0 +1,83 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Cxv9jI_OZ-VuKK4ohSPgldlxMjk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "QyTXhlst6jbDbMfAU_OucobdD2I",
+      "id": "qYhRvH9tJKw",
+      "snippet": {
+        "publishedAt": "2018-05-20T14:03:57Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "What is a microservice architecture and it's advantages?",
+        "description": "Microservices are a hot topic in system design interviews. It is important to know why we use them instead of monolithic systems. The short answer is: Scalability. The detailed one would be:\n\nAdvantages:\n1) The microservice architecture is easier to reason about/design for a complicated system.\n2) They allow new members to train for shorter periods and have less context before touching a system.\n3) Deployments are fluid and continuous for each service.\n4) They allow decoupling service logic on the basis of business responsibility\n5) They are more available as a single service having a bug does not bring down the entire system. This is called a single point of failure.\n6) Individual services can be written in different languages.\n7) The developer teams can talk to each other through API sheets instead of working on the same repository, which requires conflict resolution.\n8) New services can be tested easily and individually. The testing structure is close to unit testing compared to a monolith.\n\nMicroservices are at a disadvantage to Monoliths in some cases. Monoliths are favorable when:\n1) The technical/developer team is very small\n2) The service is simple to think of as a whole.\n3) The service requires very high efficiency, where network calls are avoided as much as possible.\n4) All developers must have context of all services.\n\nReferences:\nhttps://buttercms.com/books/microservices-for-startups/should-you-always-start-with-a-monolith\nhttps://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59\nhttp://highscalability.com/blog/2018/4/5/do-you-have-too-many-microservices-five-design-attributes-th.html\nhttps://youtu.be/kb-m2fasdDY\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architecture diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYhRvH9tJKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYhRvH9tJKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYhRvH9tJKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qYhRvH9tJKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qYhRvH9tJKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "Microservices",
+          "Microservice architecture",
+          "System design",
+          "System architecture",
+          "monolith",
+          "advantages of microservice",
+          "system design interview",
+          "scalability",
+          "microservice advantages",
+          "IT interview",
+          "software interview",
+          "microservices comparison",
+          "monolith architecture",
+          "gaurav sen",
+          "gkcs"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is a microservice architecture and it's advantages?",
+          "description": "Microservices are a hot topic in system design interviews. It is important to know why we use them instead of monolithic systems. The short answer is: Scalability. The detailed one would be:\n\nAdvantages:\n1) The microservice architecture is easier to reason about/design for a complicated system.\n2) They allow new members to train for shorter periods and have less context before touching a system.\n3) Deployments are fluid and continuous for each service.\n4) They allow decoupling service logic on the basis of business responsibility\n5) They are more available as a single service having a bug does not bring down the entire system. This is called a single point of failure.\n6) Individual services can be written in different languages.\n7) The developer teams can talk to each other through API sheets instead of working on the same repository, which requires conflict resolution.\n8) New services can be tested easily and individually. The testing structure is close to unit testing compared to a monolith.\n\nMicroservices are at a disadvantage to Monoliths in some cases. Monoliths are favorable when:\n1) The technical/developer team is very small\n2) The service is simple to think of as a whole.\n3) The service requires very high efficiency, where network calls are avoided as much as possible.\n4) All developers must have context of all services.\n\nReferences:\nhttps://buttercms.com/books/microservices-for-startups/should-you-always-start-with-a-monolith\nhttps://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59\nhttp://highscalability.com/blog/2018/4/5/do-you-have-too-many-microservices-five-design-attributes-th.html\nhttps://youtu.be/kb-m2fasdDY\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architecture diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

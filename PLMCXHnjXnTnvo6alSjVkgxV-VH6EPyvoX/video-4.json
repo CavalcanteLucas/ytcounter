@@ -1,0 +1,85 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "SGHumK3SeRZK6wlvZKBNq2E0vzs",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "c3KLK-7NuolHn91RDB6ygntDWTA",
+      "id": "zaRkONvyGr8",
+      "snippet": {
+        "publishedAt": "2018-04-21T15:59:45Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "What is Consistent Hashing and Where is it used?",
+        "description": "Load Balancing is a key concept to system design. One of the popular ways to balance load in a system is to use the concept of consistent hashing. Consistent Hashing allows requests to be mapped into hash buckets while allowing the system to add and remove nodes flexibly so as to maintain a good load factor on each machine.\n\nThe standard way to hash objects is to map them to a search space, and then transfer the load to the mapped computer. A system using this policy is likely to suffer when new nodes are added or removed from it. \n\nConsistent Hashing maps servers to the key space and assigns requests(mapped to relevant buckets, called load) to the next clockwise server. Servers can then store relevant request data in them while allowing the system flexibility and scalability.\n\nSome terms you would here in system design interviews are Fault Tolerance, in which case a machine crashes. And Scalability, in which case machines need to be added to process more requests. These two principles are allowed by Consistent Hashing, and hence it is an important building block to a system design architect's toolbox.\n\nAnother term used often is request allocation. This means assigning a request to a server. Consistent hashing assigns requests to the servers in a way that the load is balanced are remains close to equal. \n\nServer architecture is a subjective concept, and there are outliers for many cases. Don't think of Consistent Hashing as a silver bullet for fault tolerance and scalability, but a useful concept for request allocation.\n\nUse it to solve software questions in interviews and real life. Best of luck!\n\nPrerequisite: https://youtu.be/K0Ta65OqQkY\n\n\nReferences:\nhttps://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/\nhttp://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/\nhttp://michaelnielsen.org/blog/consistent-hashing\nhttps://www.youtube.com/watch?v=viaNG1zyx1g\n\nSystem Design:\nhttp://highscalability.com/\nhttps://youtu.be/OFdlimhkyGc\n\nCode:\nhttps://github.com/coding-parrot/SystemDesignCourse/blob/master/service-orchestrator/src/main/java/algorithms/ConsistentHashing.java\n\n#consistent-hashing #system-design #load-balancing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zaRkONvyGr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zaRkONvyGr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zaRkONvyGr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zaRkONvyGr8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zaRkONvyGr8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "System Design",
+          "Load Balancing",
+          "Consistent Hashing",
+          "Server architecture",
+          "Request Allocation",
+          "Hashing",
+          "Fault Tolerance",
+          "scalability",
+          "flexibility",
+          "Hash Buckets",
+          "Technical Interview",
+          "Software Interview",
+          "IT Interview",
+          "interview practice",
+          "software interview practice",
+          "Gaurav Sen",
+          "gkcs"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is Consistent Hashing and Where is it used?",
+          "description": "Load Balancing is a key concept to system design. One of the popular ways to balance load in a system is to use the concept of consistent hashing. Consistent Hashing allows requests to be mapped into hash buckets while allowing the system to add and remove nodes flexibly so as to maintain a good load factor on each machine.\n\nThe standard way to hash objects is to map them to a search space, and then transfer the load to the mapped computer. A system using this policy is likely to suffer when new nodes are added or removed from it. \n\nConsistent Hashing maps servers to the key space and assigns requests(mapped to relevant buckets, called load) to the next clockwise server. Servers can then store relevant request data in them while allowing the system flexibility and scalability.\n\nSome terms you would here in system design interviews are Fault Tolerance, in which case a machine crashes. And Scalability, in which case machines need to be added to process more requests. These two principles are allowed by Consistent Hashing, and hence it is an important building block to a system design architect's toolbox.\n\nAnother term used often is request allocation. This means assigning a request to a server. Consistent hashing assigns requests to the servers in a way that the load is balanced are remains close to equal. \n\nServer architecture is a subjective concept, and there are outliers for many cases. Don't think of Consistent Hashing as a silver bullet for fault tolerance and scalability, but a useful concept for request allocation.\n\nUse it to solve software questions in interviews and real life. Best of luck!\n\nPrerequisite: https://youtu.be/K0Ta65OqQkY\n\n\nReferences:\nhttps://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/\nhttp://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/\nhttp://michaelnielsen.org/blog/consistent-hashing\nhttps://www.youtube.com/watch?v=viaNG1zyx1g\n\nSystem Design:\nhttp://highscalability.com/\nhttps://youtu.be/OFdlimhkyGc\n\nCode:\nhttps://github.com/coding-parrot/SystemDesignCourse/blob/master/service-orchestrator/src/main/java/algorithms/ConsistentHashing.java\n\n#consistent-hashing #system-design #load-balancing"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

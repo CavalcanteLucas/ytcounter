@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "ANAKHKg18SE90fVxlqfAD4NDO0A",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "vudZ7wREBcCqknaqLzrOHrY1dNI",
+      "id": "5faMjKuB9bc",
+      "snippet": {
+        "publishedAt": "2018-08-07T17:20:04Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "What is Database Sharding?",
+        "description": "Sharding a database is a common scalability strategy used when designing server side systems. The server side system architecture uses concepts like sharding to make systems more scalable, reliable and performant.\n\nSharding is horizontal partitioning of data according to a shard key. This shard key determines which database the entry to be persisted is sent to. Some common strategies for this are reverse proxies.\n\nDatabase interviews ask for concepts like sharding to make databases more performant and available. This makes horizontal partitioning a logical choice.\n\nHorizontal vs. Vertical partitioning: https://stackoverflow.com/questions/18302773/what-are-horizontal-and-vertical-partitions-in-database-and-what-is-the-differen\n\nConsistent Hashing:\nhttps://en.wikipedia.org/wiki/Consistent_hashing\nhttps://www.youtube.com/watch?v=zaRkONvyGr8\n\nSources:\nhttps://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6\nhttps://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f\nhttps://www.quora.com/What-is-the-difference-between-consistent-hashing-and-sharding-in-a-distributed-system\nhttps://en.wikipedia.org/wiki/Partition_(database)\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\n#database #sharding #systemdesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5faMjKuB9bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5faMjKuB9bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5faMjKuB9bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5faMjKuB9bc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5faMjKuB9bc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "sharding",
+          "database",
+          "database interview",
+          "system design",
+          "server side design",
+          "interview",
+          "partition",
+          "database partition",
+          "gaurav sen",
+          "gkcs",
+          "software interview",
+          "interview question",
+          "database design",
+          "scalability",
+          "scaling",
+          "database optimization",
+          "horizonal partitioning",
+          "partitioning"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is Database Sharding?",
+          "description": "Sharding a database is a common scalability strategy used when designing server side systems. The server side system architecture uses concepts like sharding to make systems more scalable, reliable and performant.\n\nSharding is horizontal partitioning of data according to a shard key. This shard key determines which database the entry to be persisted is sent to. Some common strategies for this are reverse proxies.\n\nDatabase interviews ask for concepts like sharding to make databases more performant and available. This makes horizontal partitioning a logical choice.\n\nHorizontal vs. Vertical partitioning: https://stackoverflow.com/questions/18302773/what-are-horizontal-and-vertical-partitions-in-database-and-what-is-the-differen\n\nConsistent Hashing:\nhttps://en.wikipedia.org/wiki/Consistent_hashing\nhttps://www.youtube.com/watch?v=zaRkONvyGr8\n\nSources:\nhttps://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6\nhttps://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f\nhttps://www.quora.com/What-is-the-difference-between-consistent-hashing-and-sharding-in-a-distributed-system\nhttps://en.wikipedia.org/wiki/Partition_(database)\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\n#database #sharding #systemdesign"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

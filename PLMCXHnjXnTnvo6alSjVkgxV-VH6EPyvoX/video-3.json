@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "x2XnzJB0KciQy1krMpRkZfa10JM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "AwKVopeZgnYFeSYRqPHOmVdeoe0",
+      "id": "K0Ta65OqQkY",
+      "snippet": {
+        "publishedAt": "2018-04-21T11:51:06Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "What is Load Balancing?",
+        "description": "Load Balancing is a key concept to system design. One simple way would be hashing all requests and then sending them to the assigned server.\n\nThe standard way to hash objects is to map them to a search space, and then transfer the load to the mapped computer. A system using this policy is likely to suffer when new nodes are added or removed from it. \n\nSome terms you would here in system design interviews are Fault Tolerance, in which case a machine crashes. And Scalability, in which case machines need to be added to process more requests. Another term used often is request allocation. This means assigning a request to a server.\n\nLoad balancing is often tied with service discovery and global locks. The type of load we want to balance is that of sticky sessions.\n\nTry to solve this software question as interview practice. Best of luck!\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nCode: https://github.com/coding-parrot/Low-Level-Design/tree/master/service-orchestrator\n\nReferences:\nhttps://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions\nhttps://www.citrix.co.in/glossary/load-balancing.html\nhttps://www.nginx.com/resources/glossary/load-balancing/\nhttps://en.wikipedia.org/wiki/Load_balancing_(computing)\nhttp://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/\nhttp://michaelnielsen.org/blog/consistent-hashing\nhttps://www.youtube.com/watch?v=viaNG1zyx1g\n\nSystem Design:\nhttp://highscalability.com/\nhttps://youtu.be/OFdlimhkyGc\nhttps://github.com/checkcheckzz/system-design-interview\nhttps://www.palantir.com/how-to-ace-a-systems-design-interview/\n\nYou can reach me at:\nhttps://www.facebook.com/gkcs0/\nhttps://www.quora.com/profile/Gaurav-Sen-6\n\n#LoadBalancer #Proxy #SystemDesign",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K0Ta65OqQkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K0Ta65OqQkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K0Ta65OqQkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K0Ta65OqQkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K0Ta65OqQkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "System Design",
+          "Load Balancing",
+          "Server architecture",
+          "Request Allocation",
+          "Hashing",
+          "Fault Tolerance",
+          "scalability",
+          "flexibility",
+          "Hash Buckets",
+          "Technical Interview",
+          "Software Interview",
+          "IT Interview",
+          "interview practice",
+          "software interview practice",
+          "Gaurav Sen",
+          "gkcs",
+          "sticky sessions",
+          "service discovery"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is Load Balancing?",
+          "description": "Load Balancing is a key concept to system design. One simple way would be hashing all requests and then sending them to the assigned server.\n\nThe standard way to hash objects is to map them to a search space, and then transfer the load to the mapped computer. A system using this policy is likely to suffer when new nodes are added or removed from it. \n\nSome terms you would here in system design interviews are Fault Tolerance, in which case a machine crashes. And Scalability, in which case machines need to be added to process more requests. Another term used often is request allocation. This means assigning a request to a server.\n\nLoad balancing is often tied with service discovery and global locks. The type of load we want to balance is that of sticky sessions.\n\nTry to solve this software question as interview practice. Best of luck!\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nCode: https://github.com/coding-parrot/Low-Level-Design/tree/master/service-orchestrator\n\nReferences:\nhttps://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions\nhttps://www.citrix.co.in/glossary/load-balancing.html\nhttps://www.nginx.com/resources/glossary/load-balancing/\nhttps://en.wikipedia.org/wiki/Load_balancing_(computing)\nhttp://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/\nhttp://michaelnielsen.org/blog/consistent-hashing\nhttps://www.youtube.com/watch?v=viaNG1zyx1g\n\nSystem Design:\nhttp://highscalability.com/\nhttps://youtu.be/OFdlimhkyGc\nhttps://github.com/checkcheckzz/system-design-interview\nhttps://www.palantir.com/how-to-ace-a-systems-design-interview/\n\nYou can reach me at:\nhttps://www.facebook.com/gkcs0/\nhttps://www.quora.com/profile/Gaurav-Sen-6\n\n#LoadBalancer #Proxy #SystemDesign"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT13M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

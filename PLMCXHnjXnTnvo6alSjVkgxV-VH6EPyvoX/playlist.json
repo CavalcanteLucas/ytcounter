@@ -1,0 +1,53 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "Z9WKlbD57E3MFqjY9Pw1g_BVAps",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "Ophb1EAF0ExPZ5rtZNe8Khw5-nk",
+      "id": "PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
+      "snippet": {
+        "publishedAt": "2018-04-19T05:50:02Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "System Design",
+        "description": "This series touches key areas in system design, which are used to design real world systems and interview questions.\n1) Load balancing\n2) Message Passing\n3) Microservice architecture\n4) NoSQL databases\n5) Distributed Systems\n\nSubscribe to get the latest updates!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "localized": {
+          "title": "System Design",
+          "description": "This series touches key areas in system design, which are used to design real world systems and interview questions.\n1) Load balancing\n2) Message Passing\n3) Microservice architecture\n4) NoSQL databases\n5) Distributed Systems\n\nSubscribe to get the latest updates!"
+        }
+      }
+    }
+  ]
+}

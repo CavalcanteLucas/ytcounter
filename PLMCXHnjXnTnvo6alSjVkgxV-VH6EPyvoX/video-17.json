@@ -1,0 +1,91 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "JdNN6Ts0t0xtrSMfb5CQTmKQLgM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "aOfXPwBByAnwnSZPnDCqQq2gK4Q",
+      "id": "GeGxgmPTe4c",
+      "snippet": {
+        "publishedAt": "2019-02-24T21:05:19Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Distributed Consensus and Data Replication strategies on the server",
+        "description": "We talk about the Master Slave replication strategy for reliability and data backups. This database concept is often asked in system design interviews with discussions on consistency and availability tradeoffs.\n\nVery closely tied to the master slave architecture is the concept of distributed consensus. When designing a system, we must make sure that the individual components can agree on a particular value. (Leader election, distributed transactions, etc...) Some popular techniques are 2 phase commit, Multi Version Concurrency Control, SAGAs and Quorum.\n\nChapters\n0:00 Problem Statement\n0:53 Replication\n1:24 Synchronous replication vs. Asynchronous replication\n3:36 Peer to Peer data transfer\n4:44 Split brain problem\n\nAlso useful when used with Master Slave replication is sharding. You can check out the video mentioned below.\n\nAlgoExpert: \nhttp://www.algoexpert.io/gaurav\n\nMade by engineers from Google and Uber, this site helps you build your algorithmic skills using code and white board explanations.\nBe sure to use the code 'gaurav' for the discount. You get 15% off! \n\nSystem Design Course: https://get.interviewready.io/courses/system-design-interview-prep\n\nSharding: https://youtu.be/5faMjKuB9bc\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nGitHub: https://github.com/gkcs\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\n\n#SystemDesign #Databases #Replication",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GeGxgmPTe4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GeGxgmPTe4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GeGxgmPTe4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GeGxgmPTe4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GeGxgmPTe4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "interview preparation",
+          "interviews",
+          "software interview",
+          "problem solving",
+          "design interview",
+          "programming interview",
+          "gaurav sen",
+          "master slave",
+          "replication",
+          "data redundancy",
+          "data replication",
+          "databases",
+          "database interview",
+          "master slave architecture",
+          "distributed consensus",
+          "paxos",
+          "two phase commit",
+          "split brain",
+          "data consistency",
+          "data availability",
+          "data migration",
+          "gkcs"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Distributed Consensus and Data Replication strategies on the server",
+          "description": "We talk about the Master Slave replication strategy for reliability and data backups. This database concept is often asked in system design interviews with discussions on consistency and availability tradeoffs.\n\nVery closely tied to the master slave architecture is the concept of distributed consensus. When designing a system, we must make sure that the individual components can agree on a particular value. (Leader election, distributed transactions, etc...) Some popular techniques are 2 phase commit, Multi Version Concurrency Control, SAGAs and Quorum.\n\nChapters\n0:00 Problem Statement\n0:53 Replication\n1:24 Synchronous replication vs. Asynchronous replication\n3:36 Peer to Peer data transfer\n4:44 Split brain problem\n\nAlso useful when used with Master Slave replication is sharding. You can check out the video mentioned below.\n\nAlgoExpert: \nhttp://www.algoexpert.io/gaurav\n\nMade by engineers from Google and Uber, this site helps you build your algorithmic skills using code and white board explanations.\nBe sure to use the code 'gaurav' for the discount. You get 15% off! \n\nSystem Design Course: https://get.interviewready.io/courses/system-design-interview-prep\n\nSharding: https://youtu.be/5faMjKuB9bc\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nGitHub: https://github.com/gkcs\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\n\n#SystemDesign #Databases #Replication"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

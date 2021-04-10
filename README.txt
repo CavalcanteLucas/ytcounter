@@ -4,10 +4,8 @@ finish your favorite YouTube playlist. Have fun.
 
 Input:
     - Valid YouTube playlist URL;
-    - Current progress on the playlist, as a number.
 Output:
-    - Current progress in %;
-    - Remaining time.
+    - Progress table
 
 Instructions of use:
 
@@ -19,7 +17,7 @@ $source venv/bin/activate
 
 2) Install requirements:
 ```
-$pip install -r requirements.txt --user
+$pip install -r requirements.txt
 ```
 
 3) Edit `example.py` with a valid URL and run:

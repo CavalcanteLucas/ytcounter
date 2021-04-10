@@ -1,0 +1,93 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "bROsVSwYdIs4my_Qxxs3EpWb_10",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Fwt3Md-Hn0ciB4YZPuL1a7EI8ec",
+      "id": "smiu01pLosI",
+      "snippet": {
+        "publishedAt": "2019-05-13T15:32:06Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Detecting anomalies using Isolation Trees: Practical Machine Learning",
+        "description": "Production alerts are an important way in which engineers monitor the health of their services. The alerts are fired when important service metrics behave irregularly. An example would be a sudden spike in the number of errors or a crash in the number of running processes.\n\nWe design a system to allow important server metrics to be published, analysed and acted upon. The metrics are sent using sidecars in a service mesh. The metrics are then capped and run through machine learning algorithms like isolation trees to search for anomalies.\n\nService Mesh:\nhttps://www.nginx.com/blog/what-is-a-service-mesh/\n\nIsolation forest:\nhttps://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e\nhttps://www.youtube.com/watch?v=12Xq9OLdQwQ\n\nReferences:\nhttps://eng.uber.com/argos/\nhttps://www.youtube.com/watch?v=bRbrOQHpvNc&index=1&list=UUq4pm1i_VZqxKVVOz5qRBIA\nhttps://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/\nhttp://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.1949&rep=rep1&type=pdf\nhttps://towardsdatascience.com/machine-learning-for-anomaly-detection-and-condition-monitoring-d4614e7de770\nhttps://jotterbach.github.io/2016/03/24/Principal_Component_Analysis/\nhttps://www.youtube.com/watch?v=7X4pY8NYofg\nhttp://rstudio-pubs-static.s3.amazonaws.com/150640_4ab884411f5d4b4c85f032cf3fe68aa0.html\n\nPreparing for design Interviews?\nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nTwitter: https://twitter.com/gkcs_\n\n#AnomalyDetection #MachineLearning #IsolationTrees",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/smiu01pLosI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/smiu01pLosI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/smiu01pLosI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/smiu01pLosI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/smiu01pLosI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "machine learning",
+          "software engineering",
+          "ML",
+          "SDE",
+          "learn ML",
+          "learn machine learning",
+          "maching learning code",
+          "gaurav sen",
+          "system design",
+          "anomaly detection",
+          "anomaly",
+          "anomaly prediction",
+          "server alert",
+          "production issue",
+          "on call",
+          "support alert",
+          "alert",
+          "server side machine learning",
+          "server side ML",
+          "machine learning on server",
+          "isolation tree",
+          "service mesh",
+          "sidecar",
+          "decision tree",
+          "data partition"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Detecting anomalies using Isolation Trees: Practical Machine Learning",
+          "description": "Production alerts are an important way in which engineers monitor the health of their services. The alerts are fired when important service metrics behave irregularly. An example would be a sudden spike in the number of errors or a crash in the number of running processes.\n\nWe design a system to allow important server metrics to be published, analysed and acted upon. The metrics are sent using sidecars in a service mesh. The metrics are then capped and run through machine learning algorithms like isolation trees to search for anomalies.\n\nService Mesh:\nhttps://www.nginx.com/blog/what-is-a-service-mesh/\n\nIsolation forest:\nhttps://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e\nhttps://www.youtube.com/watch?v=12Xq9OLdQwQ\n\nReferences:\nhttps://eng.uber.com/argos/\nhttps://www.youtube.com/watch?v=bRbrOQHpvNc&index=1&list=UUq4pm1i_VZqxKVVOz5qRBIA\nhttps://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/\nhttp://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.1949&rep=rep1&type=pdf\nhttps://towardsdatascience.com/machine-learning-for-anomaly-detection-and-condition-monitoring-d4614e7de770\nhttps://jotterbach.github.io/2016/03/24/Principal_Component_Analysis/\nhttps://www.youtube.com/watch?v=7X4pY8NYofg\nhttp://rstudio-pubs-static.s3.amazonaws.com/150640_4ab884411f5d4b4c85f032cf3fe68aa0.html\n\nPreparing for design Interviews?\nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nTwitter: https://twitter.com/gkcs_\n\n#AnomalyDetection #MachineLearning #IsolationTrees"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

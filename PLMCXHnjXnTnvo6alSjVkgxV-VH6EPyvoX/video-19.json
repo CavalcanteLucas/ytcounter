@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "6qYpFlCd6onCCcFDQcu9nW3dHmg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "yfplv0k_WgjJqGryHXmh1hRW1Kc",
+      "id": "9T-gNZ5bGCw",
+      "snippet": {
+        "publishedAt": "2018-05-19T20:29:08Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Why do Databases fail? AntiPatterns to avoid!",
+        "description": "Databases are often used to store various types of information, but one case where it becomes an a problem is when being used as a message broker.\n\nThe database is rarely designed to deal with messaging features, and hence is a poor substitute of a specialized message queue. When designing a system, this pattern is considered an anti pattern. \n\nHere are possible drawbacks:\n1) Polling intervals have to be set correctly. Too long makes the system is inefficient. Too short makes the database undergo heavy read load.\n2) Read and write operation heavy DB. Usually, they are good at one of the two.\n3) Manual delete procedures to be written to remove read messages.\n4) Scaling is difficult conceptually and physically.\n\nDisadvantages of a Message Queue:\n1) Adds more moving parts to the system.\n2) Cost of setting up the MQ along with training is large.\n3) Maybe be overkill for a small service.\n\nIn a system design interview, it is important to be able to reason why or why not a system needs a message queue. These reasons allow us to argue on the merits and demerits of the two approaches.\n\nHowever, there are blogs on why Databases are perfectly fine as message queues too. A deep understanding of the pros and cons helps evaluate how effective they would be for a given scenario. \n\nIn general, for a small application, databases are fine as they bring no additional moving part to the system. For complex message sending requirements, it is useful to have an abstraction such as a message queue handle message delivery for us.\n\nLinks: \nhttp://blog.codepath.com/2012/11/15/asynchronous-processing-in-web-applications-part-1-a-database-is-not-a-queue/\nhttps://softwareengineering.stackexchange.com/questions/231410/why-database-as-queue-so-bad\nhttp://mikehadlow.blogspot.com/2012/04/database-as-queue-anti-pattern.html\nhttps://www.cloudamqp.com/blog/2015-11-23-why-is-a-database-not-the-right-tool-for-a-queue-based-system.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9T-gNZ5bGCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9T-gNZ5bGCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9T-gNZ5bGCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9T-gNZ5bGCw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9T-gNZ5bGCw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "message queue",
+          "database",
+          "anti pattern",
+          "efficient message queue",
+          "system design interview",
+          "database as message queue",
+          "design pattern",
+          "software interview",
+          "scalability",
+          "gaurav sen",
+          "gkcs",
+          "database design",
+          "interview question",
+          "kafka",
+          "redis",
+          "server side",
+          "db"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Why do Databases fail? AntiPatterns to avoid!",
+          "description": "Databases are often used to store various types of information, but one case where it becomes an a problem is when being used as a message broker.\n\nThe database is rarely designed to deal with messaging features, and hence is a poor substitute of a specialized message queue. When designing a system, this pattern is considered an anti pattern. \n\nHere are possible drawbacks:\n1) Polling intervals have to be set correctly. Too long makes the system is inefficient. Too short makes the database undergo heavy read load.\n2) Read and write operation heavy DB. Usually, they are good at one of the two.\n3) Manual delete procedures to be written to remove read messages.\n4) Scaling is difficult conceptually and physically.\n\nDisadvantages of a Message Queue:\n1) Adds more moving parts to the system.\n2) Cost of setting up the MQ along with training is large.\n3) Maybe be overkill for a small service.\n\nIn a system design interview, it is important to be able to reason why or why not a system needs a message queue. These reasons allow us to argue on the merits and demerits of the two approaches.\n\nHowever, there are blogs on why Databases are perfectly fine as message queues too. A deep understanding of the pros and cons helps evaluate how effective they would be for a given scenario. \n\nIn general, for a small application, databases are fine as they bring no additional moving part to the system. For complex message sending requirements, it is useful to have an abstraction such as a message queue handle message delivery for us.\n\nLinks: \nhttp://blog.codepath.com/2012/11/15/asynchronous-processing-in-web-applications-part-1-a-database-is-not-a-queue/\nhttps://softwareengineering.stackexchange.com/questions/231410/why-database-as-queue-so-bad\nhttp://mikehadlow.blogspot.com/2012/04/database-as-queue-anti-pattern.html\nhttps://www.cloudamqp.com/blog/2015-11-23-why-is-a-database-not-the-right-tool-for-a-queue-based-system.html"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

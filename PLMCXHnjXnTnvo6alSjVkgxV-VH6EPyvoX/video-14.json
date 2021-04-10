@@ -1,0 +1,80 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "yMN-7rrF30R-bu4vHWbi03qJI0o",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "xPEboLyCHi1pGT4sKC1Kh3Ukas4",
+      "id": "-BOysyYErLY",
+      "snippet": {
+        "publishedAt": "2018-06-24T16:41:56Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "How to avoid a single point of failure in distributed systems",
+        "description": "A single point of failure(SPOF) in computing is a critical point in the system whose failure can take down the entire system. A lot of resources and time is spent on removing single points of failure in an architecture/design. \n\nSingle points of failure often pop up when setting up coordinators and proxies. These services help distribute load and discover services as they come and leave the system. Because of the critical centralized tasks of these services, they are more prone to being SPOFs.\n\nOne way to mitigate the problem is to use multiple instances of every component in the service. The graph of dependencies then becomes more flexible, allowing the system to resiliently switch to another service instead of failing requests.\n\nAnother approach is to have backups which allow a quick switch over on failure. The backups are useful in components dealing with data, like databases.\n\nAllocating more resources, distributing the system and replication are some ways of mitigating the problem of SPOF. Hence designs include horizontal scaling capabilities and partitioning.\n\nIt is important to note that the CAP theorem does not allow removing SPOFs if perfect consistency is required.\n\n\nReferences:\n\nhttps://docs.oracle.com/cd/E19693-01/819-0992/fjdch/index.html\n\nhttps://stackoverflow.com/questions/7943211/web-app-high-availability-how-to-prevent-a-single-point-of-failure\n\nhttps://ieeexplore.ieee.org/document/6214760/\n\nhttp://www.spkaa.com/blog/how-to-deal-with-single-points-of-failure-software/\n\nhttps://en.wikipedia.org/wiki/Single_point_of_failure",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-BOysyYErLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-BOysyYErLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-BOysyYErLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-BOysyYErLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-BOysyYErLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "single point of failure",
+          "system design",
+          "critical component",
+          "system architecture",
+          "fault tolerance",
+          "resilience",
+          "avoiding failure",
+          "partitioning",
+          "horizontal scaling",
+          "SPOF",
+          "gaurav sen",
+          "gkcs",
+          "single points of failure"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How to avoid a single point of failure in distributed systems",
+          "description": "A single point of failure(SPOF) in computing is a critical point in the system whose failure can take down the entire system. A lot of resources and time is spent on removing single points of failure in an architecture/design. \n\nSingle points of failure often pop up when setting up coordinators and proxies. These services help distribute load and discover services as they come and leave the system. Because of the critical centralized tasks of these services, they are more prone to being SPOFs.\n\nOne way to mitigate the problem is to use multiple instances of every component in the service. The graph of dependencies then becomes more flexible, allowing the system to resiliently switch to another service instead of failing requests.\n\nAnother approach is to have backups which allow a quick switch over on failure. The backups are useful in components dealing with data, like databases.\n\nAllocating more resources, distributing the system and replication are some ways of mitigating the problem of SPOF. Hence designs include horizontal scaling capabilities and partitioning.\n\nIt is important to note that the CAP theorem does not allow removing SPOFs if perfect consistency is required.\n\n\nReferences:\n\nhttps://docs.oracle.com/cd/E19693-01/819-0992/fjdch/index.html\n\nhttps://stackoverflow.com/questions/7943211/web-app-high-availability-how-to-prevent-a-single-point-of-failure\n\nhttps://ieeexplore.ieee.org/document/6214760/\n\nhttp://www.spkaa.com/blog/how-to-deal-with-single-points-of-failure-software/\n\nhttps://en.wikipedia.org/wiki/Single_point_of_failure"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT6M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

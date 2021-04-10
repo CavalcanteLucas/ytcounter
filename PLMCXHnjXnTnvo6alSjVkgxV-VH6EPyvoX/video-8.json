@@ -1,0 +1,80 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "xn66z0rWoyKjSp1A2CTvkNgDvsA",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "wXqGNpLLGAHgJpz9yzkMQDbSG2E",
+      "id": "x9Hrn0oNmJM",
+      "snippet": {
+        "publishedAt": "2019-08-30T16:00:15Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "How Netflix onboards new content: Video Processing at scale",
+        "description": "Everyday, #Netflix handles billions of requests regarding movies, trailers and other video content. Delivering at such a large scale needs an #engineering marvel. This #video will talk about how Netflix is able to onboard new video content onto their platform. We go from video chunking to collating 4 second shots into scenes.\n\nAmazon S3 is used to store the video chunks. Netflix also provides open connect servers to internet service providers, which acts like a cache of movies. Most requests to Netflix can be served by this cache, and the remaining are sent over the network. This reduces the bandwidth and time required for Netflix to operate at scale. Synergy at it's finest.\n\n00:00 Problem Description\n00:32 Video formats and resolutions\n03:18 Chunk processing\n05:52 Storage\n06:19 OpenConnect for video caching\n10:13 Summary\n\nReferences:\nhttps://medium.com/netflix-techblog/high-quality-video-encoding-at-scale-d159db052746\nhttps://medium.com/netflix-techblog/optimized-shot-based-encodes-now-streaming-4b9464204830\nhttps://medium.com/netflix-techblog/tagged/video-encoding\nhttps://medium.com/netflix-techblog/tagged/stream-processing\nhttps://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a\nhttps://media.netflix.com/en/company-blog/how-netflix-works-with-isps-around-the-globe-to-deliver-a-great-viewing-experience\n\nSystem Design Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nAlong with video lectures, this course has architecture diagrams, capacity planning, API contracts and evaluation tests. It's a complete package.\n\nUse the coupon code 'earlybird' for a 20% discount.\n\nSystem Design Book: https://amzn.to/2yQIrxH\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nBecome a channel member!\nhttps://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/join\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_\n\nTwitter: https://twitter.com/gkcs_\n\nExternal content used:\nFast and Furious 7 (Car chase scene)\nBoone Loves Video: https://www.youtube.com/watch?v=LQXdT-odNcU\nSacred Games (Available on Netflix)\nJohnny English Reborn (What's it called?)\nNetflix Logo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x9Hrn0oNmJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x9Hrn0oNmJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x9Hrn0oNmJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x9Hrn0oNmJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x9Hrn0oNmJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "netflix",
+          "netflix system design",
+          "video processing",
+          "video processing in parallel",
+          "netflix video",
+          "netflix video processing",
+          "amazon s3",
+          "open connect",
+          "internet service provider",
+          "design netflix",
+          "gaurav sen"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How Netflix onboards new content: Video Processing at scale",
+          "description": "Everyday, #Netflix handles billions of requests regarding movies, trailers and other video content. Delivering at such a large scale needs an #engineering marvel. This #video will talk about how Netflix is able to onboard new video content onto their platform. We go from video chunking to collating 4 second shots into scenes.\n\nAmazon S3 is used to store the video chunks. Netflix also provides open connect servers to internet service providers, which acts like a cache of movies. Most requests to Netflix can be served by this cache, and the remaining are sent over the network. This reduces the bandwidth and time required for Netflix to operate at scale. Synergy at it's finest.\n\n00:00 Problem Description\n00:32 Video formats and resolutions\n03:18 Chunk processing\n05:52 Storage\n06:19 OpenConnect for video caching\n10:13 Summary\n\nReferences:\nhttps://medium.com/netflix-techblog/high-quality-video-encoding-at-scale-d159db052746\nhttps://medium.com/netflix-techblog/optimized-shot-based-encodes-now-streaming-4b9464204830\nhttps://medium.com/netflix-techblog/tagged/video-encoding\nhttps://medium.com/netflix-techblog/tagged/stream-processing\nhttps://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a\nhttps://media.netflix.com/en/company-blog/how-netflix-works-with-isps-around-the-globe-to-deliver-a-great-viewing-experience\n\nSystem Design Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nAlong with video lectures, this course has architecture diagrams, capacity planning, API contracts and evaluation tests. It's a complete package.\n\nUse the coupon code 'earlybird' for a 20% discount.\n\nSystem Design Book: https://amzn.to/2yQIrxH\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nBecome a channel member!\nhttps://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/join\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_\n\nTwitter: https://twitter.com/gkcs_\n\nExternal content used:\nFast and Furious 7 (Car chase scene)\nBoone Loves Video: https://www.youtube.com/watch?v=LQXdT-odNcU\nSacred Games (Available on Netflix)\nJohnny English Reborn (What's it called?)\nNetflix Logo"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
