@@ -3,8 +3,10 @@
 venv/
 
 # oauth2 credentials
-client_secretes.jon
+client_secrets.json
 
 # vscode
 .vscode
 .vscode/
+
+__pycache__/
