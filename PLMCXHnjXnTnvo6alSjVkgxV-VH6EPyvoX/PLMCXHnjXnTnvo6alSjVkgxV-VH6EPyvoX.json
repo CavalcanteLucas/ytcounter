@@ -1,0 +1,276 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "tLYLIw6kQ3eGA2omczio95vJbhk",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PRznb5Gqo3tbHjDbicmy4nPrBwg",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC4zMDg5MkQ5MEVDMEM1NTg2",
+      "contentDetails": {
+        "videoId": "xpDnVSmNFX0",
+        "videoPublishedAt": "2018-07-29T09:53:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hrv-4z-uiU0fmnxstXciwixtXIg",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC42MTI4Njc2QjM1RjU1MjlG",
+      "contentDetails": {
+        "videoId": "SqcXvc3ZmRU",
+        "videoPublishedAt": "2019-11-23T15:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MqxpSwXH_J7nGK9zSUHU8VicrZ4",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC4yODlGNEE0NkRGMEEzMEQy",
+      "contentDetails": {
+        "videoId": "K0Ta65OqQkY",
+        "note": "The most fundamental piece of designing distributed systems.",
+        "videoPublishedAt": "2018-04-21T11:51:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CnwIRUB6JSFAxwmRVuSAr63hawI",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC4wMTcyMDhGQUE4NTIzM0Y5",
+      "contentDetails": {
+        "videoId": "zaRkONvyGr8",
+        "videoPublishedAt": "2018-04-21T15:59:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X9_Bwxvx5AkTmsdjDepGQMk0RDA",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC41MjE1MkI0OTQ2QzJGNzNG",
+      "contentDetails": {
+        "videoId": "oUJbuFMyBDk",
+        "videoPublishedAt": "2018-05-07T05:33:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aolwVW1wZ79MlkJ4_DwLTKJfl-g",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC4xMkVGQjNCMUM1N0RFNEUx",
+      "contentDetails": {
+        "videoId": "qYhRvH9tJKw",
+        "videoPublishedAt": "2018-05-20T14:03:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A0kgbbVEU45clMXWZVhOxWm9yek",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC5EQUE1NTFDRjcwMDg0NEMz",
+      "contentDetails": {
+        "videoId": "5faMjKuB9bc",
+        "note": "Double role while learning horizontal partitioning in databases",
+        "videoPublishedAt": "2018-08-07T17:20:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_6aR9lJFOO_achlkb1njTEVXQVw",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "contentDetails": {
+        "videoId": "x9Hrn0oNmJM",
+        "videoPublishedAt": "2019-08-30T16:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ce38NBMcakLerCnq0PEH3McU-yk",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC45ODRDNTg0QjA4NkFBNkQy",
+      "contentDetails": {
+        "videoId": "tndzLznxq40",
+        "note": "Extensive discussion and an end to end system design",
+        "videoPublishedAt": "2018-07-02T05:52:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7IJmI56_MFg2-4ikivXf4ctoeV4",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC4yMDhBMkNBNjRDMjQxQTg1",
+      "contentDetails": {
+        "videoId": "vvhC64hQZMk",
+        "videoPublishedAt": "2019-01-22T15:22:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qN0b66o1086jcHKv-sRS724F9ek",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC43MTI1NDIwOTMwQjIxMzNG",
+      "contentDetails": {
+        "videoId": "U3RkDLtS7uY",
+        "videoPublishedAt": "2019-03-31T16:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xQ-0I6m1jLBKKmhNrAoGaDyKVCc",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC5DNzE1RjZEMUZCMjA0RDBB",
+      "contentDetails": {
+        "videoId": "_YlYuNMTCc8",
+        "videoPublishedAt": "2019-03-17T13:33:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DNkscY3xBIShiPZQ8ky_-v5vsyg",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC45RjNFMDhGQ0Q2RkFCQTc1",
+      "contentDetails": {
+        "videoId": "0myM0k1mjZw",
+        "videoPublishedAt": "2020-01-15T17:55:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "unqQ2dSeyApYs4O41ekYh-Asq1g",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC40NzZCMERDMjVEN0RFRThB",
+      "contentDetails": {
+        "videoId": "-BOysyYErLY",
+        "note": "Possibly the most critical part of designing a system.",
+        "videoPublishedAt": "2018-06-24T16:41:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ey9olXPBBnUH00fRn6fTcShFwQY",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC4zRjM0MkVCRTg0MkYyQTM0",
+      "contentDetails": {
+        "videoId": "xQnIN9bW0og",
+        "videoPublishedAt": "2019-02-08T15:31:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oXqf-mS9aJxvq-DLqdHYq_XJiLY",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC5BRjJDODk5REM0NjkzMUIy",
+      "contentDetails": {
+        "videoId": "_5vrfuwhvlQ",
+        "videoPublishedAt": "2020-04-10T15:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QvBEFgVRCvTr8CWgad-d_pP17A8",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC45NzUwQkI1M0UxNThBMkU0",
+      "contentDetails": {
+        "videoId": "GeGxgmPTe4c",
+        "videoPublishedAt": "2019-02-24T21:05:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2WG4gdJUM1mctKnqkwtb9tQmBnw",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC41MzJCQjBCNDIyRkJDN0VD",
+      "contentDetails": {
+        "videoId": "FMhbR_kQeHw",
+        "videoPublishedAt": "2018-05-27T21:15:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1Pxcyt2hsxyhIR18y3uOItkZmpI",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC40QTA3NTU2RkM1QzlCMzYx",
+      "contentDetails": {
+        "videoId": "9T-gNZ5bGCw",
+        "videoPublishedAt": "2018-05-19T20:29:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zpaN2lYmCpIe3Z0Cu37BsThD4Fw",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC4yQUE2Q0JEMTk4NTM3RTZC",
+      "contentDetails": {
+        "videoId": "rJHTK2TfZ1I",
+        "videoPublishedAt": "2018-06-01T13:51:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2SUbA24WULQKb3qZv8eiJpAGp9Y",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC5ENDU4Q0M4RDExNzM1Mjcy",
+      "contentDetails": {
+        "videoId": "QmX2NPkJTKg",
+        "videoPublishedAt": "2019-01-12T14:46:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I7PF8CgZtEKymplXmijW4--wxKk",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "contentDetails": {
+        "videoId": "lWE_UIbm8NA",
+        "videoPublishedAt": "2019-04-14T15:40:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2pHuEWL20aESY-Zor6EMvkZ5Iq0",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC5DRUQwODMxQzUyRTlGRkY3",
+      "contentDetails": {
+        "videoId": "xrizarXJgC8",
+        "videoPublishedAt": "2018-11-02T13:54:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "REXGSSaelZE3LAtk9XT8xG_5R8E",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC41MzY4MzcwOUFFRUU3QzEx",
+      "contentDetails": {
+        "videoId": "smiu01pLosI",
+        "videoPublishedAt": "2019-05-13T15:32:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6L13Nr0c7xncX3Qcxj2BprJYYCM",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC4zQzFBN0RGNzNFREFCMjBE",
+      "contentDetails": {
+        "videoId": "OcUKFIjhKu0",
+        "videoPublishedAt": "2020-08-21T15:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iuA_8VuwRLQK0Q_b0-LRdIovhHE",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC5DNkMwRUI2MkI4QkI4NDFG",
+      "contentDetails": {
+        "videoId": "GOuVeZmMee0",
+        "videoPublishedAt": "2020-11-27T15:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0stA43tNVoZhuSLtEr6HyyJO5cs",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC45NDk1REZENzhEMzU5MDQz",
+      "contentDetails": {
+        "videoId": "CtmBGH8MkX4",
+        "note": "Watch it a day before your system design interview.",
+        "videoPublishedAt": "2018-06-09T11:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tVnKe-8qFVvSgK7Ou3vV7Ji6-hI",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC4xOTEzQzhBQzU3MDNDNjcz",
+      "contentDetails": {
+        "videoId": "beUzxZK6aKw",
+        "videoPublishedAt": "2020-06-02T19:44:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9zEIUESpo9Jx5V72qgqx-gRUbmk",
+      "id": "UExNQ1hIbmpYblRudm82YWxTalZrZ3hWLVZINkVQeXZvWC5GNDg1Njc1QzZERjlFRjE5",
+      "contentDetails": {
+        "videoId": "mIcCBrZsj2E",
+        "videoPublishedAt": "2020-08-07T22:47:54Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 29,
+    "resultsPerPage": 30
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "8zMhEOO8yEPUXq7Rt9z2SagKxNA",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "POk3q2lJX-r_qr1v3iy-t1NTQ1Y",
+      "id": "U3RkDLtS7uY",
+      "snippet": {
+        "publishedAt": "2019-03-31T16:00:06Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "What is Distributed Caching? Explained with Redis!",
+        "description": "Caching in distributed systems is an important aspect for designing scalable systems. We first discuss what is a cache and why we use it. We then talk about what are the key features of a cache in a distributed system.\n\nThe cache management policies of LRU and Sliding Window are mentioned here. For high performance, the cache eviction policy must be chosen carefully. To keep data consistent and memory footprint low, we must choose a write through or write back consistency policy.\n\nCache management is important because of its relation to cache hit ratios and performance. We talk about various scenarios in a distributed environment.\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architecture diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nPreparing for design Interviews? Check out the \"Grokking the system design interview\" course:\nhttps://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=4793322061168640\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\n\nCode: https://github.com/coding-parrot/Low-Level-Design/tree/master/distributed-cache\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nTwitter: https://twitter.com/gkcs_\n\nReferences:\nGuava Cache - https://github.com/google/guava/wiki/CachesExplained\nLRU - http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/9-virtual-mem/LRU-replace.html\nhttps://en.wikipedia.org/wiki/Cache_replacement_policies\nImplementation of Sliding Window Cache policies (Caffeine) - https://github.com/ben-manes/caffeine\nhttp://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html\nhttps://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589802(v%3dpandp.10)\n\n#SystemDesign #Caching #DistributedSystems",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U3RkDLtS7uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U3RkDLtS7uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U3RkDLtS7uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U3RkDLtS7uY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U3RkDLtS7uY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "interview preparation",
+          "interviews",
+          "software interview",
+          "design interview",
+          "gaurav sen",
+          "distributed system",
+          "distributed systems",
+          "caching",
+          "cache",
+          "cache management",
+          "cache eviction",
+          "cache types",
+          "types of cache",
+          "caching in os",
+          "caching in database",
+          "distributed cache",
+          "redis cache",
+          "scalability",
+          "consistency",
+          "cache consistency",
+          "cache invalidation"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is Distributed Caching? Explained with Redis!",
+          "description": "Caching in distributed systems is an important aspect for designing scalable systems. We first discuss what is a cache and why we use it. We then talk about what are the key features of a cache in a distributed system.\n\nThe cache management policies of LRU and Sliding Window are mentioned here. For high performance, the cache eviction policy must be chosen carefully. To keep data consistent and memory footprint low, we must choose a write through or write back consistency policy.\n\nCache management is important because of its relation to cache hit ratios and performance. We talk about various scenarios in a distributed environment.\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architecture diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nPreparing for design Interviews? Check out the \"Grokking the system design interview\" course:\nhttps://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=4793322061168640\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\n\nCode: https://github.com/coding-parrot/Low-Level-Design/tree/master/distributed-cache\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nTwitter: https://twitter.com/gkcs_\n\nReferences:\nGuava Cache - https://github.com/google/guava/wiki/CachesExplained\nLRU - http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/9-virtual-mem/LRU-replace.html\nhttps://en.wikipedia.org/wiki/Cache_replacement_policies\nImplementation of Sliding Window Cache policies (Caffeine) - https://github.com/ben-manes/caffeine\nhttp://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html\nhttps://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589802(v%3dpandp.10)\n\n#SystemDesign #Caching #DistributedSystems"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

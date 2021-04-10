@@ -1,0 +1,88 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "GZCuxIjMrXvHajbdR6BlGf5WqkI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "-ukCALUTBrzO5ytwRB_PvpYkT5g",
+      "id": "lWE_UIbm8NA",
+      "snippet": {
+        "publishedAt": "2019-04-14T15:40:52Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Service discovery and heartbeats in micro-services",
+        "description": "Servers crash due to various reasons like hardware faults and software bugs. Service Discovery and Health Checks are essential for maintaining a service ecosystem's availability and reliability. We talk about how a heartbeat service can be used to maintain system state and help the load balancer decide where to direct requests. Now when a server crashes, the heartbeat service and identify and restart the service immediately on the server.\n\nService Discovery is another important part of deploying and maintaining systems. The load balancer is able to adapt request routing. Both features allow the system to report and heal issues efficiently.\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nAlgoExpert: \nhttp://www.algoexpert.io/gaurav\n\nMade by engineers from Google and Uber, this site helps you build your algorithmic skills using code and white board explanations.\nBe sure to use the code 'gaurav' for the discount. You get 15% off! \n\nGrokking the system design interview:\nhttps://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=4793322061168640\n\nReferences:\nhttps://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e\nhttps://medium.com/netflix-techblog/active-active-for-multi-regional-resiliency-c47719f6685b\n\n#SoftwareEngineering #SystemDesign #ServiceDiscovery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lWE_UIbm8NA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lWE_UIbm8NA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lWE_UIbm8NA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lWE_UIbm8NA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lWE_UIbm8NA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "interview preparation",
+          "interviews",
+          "software interview",
+          "design interview",
+          "gaurav sen",
+          "software engineering",
+          "service discovery",
+          "load balancer",
+          "service heartbeat",
+          "server heartbeat",
+          "server side",
+          "health check",
+          "heartbeat",
+          "deploy server",
+          "server failure",
+          "request routing",
+          "server crash",
+          "crash",
+          "failure"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Service discovery and heartbeats in micro-services",
+          "description": "Servers crash due to various reasons like hardware faults and software bugs. Service Discovery and Health Checks are essential for maintaining a service ecosystem's availability and reliability. We talk about how a heartbeat service can be used to maintain system state and help the load balancer decide where to direct requests. Now when a server crashes, the heartbeat service and identify and restart the service immediately on the server.\n\nService Discovery is another important part of deploying and maintaining systems. The load balancer is able to adapt request routing. Both features allow the system to report and heal issues efficiently.\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nAlgoExpert: \nhttp://www.algoexpert.io/gaurav\n\nMade by engineers from Google and Uber, this site helps you build your algorithmic skills using code and white board explanations.\nBe sure to use the code 'gaurav' for the discount. You get 15% off! \n\nGrokking the system design interview:\nhttps://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=4793322061168640\n\nReferences:\nhttps://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e\nhttps://medium.com/netflix-techblog/active-active-for-multi-regional-resiliency-c47719f6685b\n\n#SoftwareEngineering #SystemDesign #ServiceDiscovery"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "SIi4UxF3h02Ekfr60Inxsj8yR9k",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "FvgjNp0_--nFI44z-gMr4jGvs5o",
+      "id": "xrizarXJgC8",
+      "snippet": {
+        "publishedAt": "2018-11-02T13:54:46Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Avoid cascading failures in a distributed system",
+        "description": "In this video we solve the thundering herd problem. This problem occurs when there are a huge number of requests on the server, and this results in the server crashing due to overloading. One of the solutions to this problem is rate limiting. In a distributed environment, the rate limiting problem is a complex problem to solve.\n\nWhen designing systems on the server side, we often need to predict the capacity of a server and apply limits on the number of requests it can receive per second. This is mentioned in the service QPS document. QPS stands for queries per second.\n\nThe system design discussion helps us understand how to deal with requests based on priorities, how to deal with cascading failures, how to handle a large number of requests, viral posts or videos and their requirements.\n\nSome other scenarios like job scheduling or cron jobs being fired in batches is also discussed. We use batch processing and approximations to reduce server load.\n\nThe last few approaches include gradual deployments and using caches to store common requests information. This helps us improve performance. Improving QPS and performance helps us handle more requests, which means more users and more money for the product.\n\nCaching and coupling systems can also help improve performance. However, they must have time outs and appropriate cache eviction policies set while designing the system.\n\nRequest throttling is one of the many approaches we discuss, but it is the most important. Dropping requests helps the server recover and operate at the right requirement level.\n\nWe often use message queues for rate limiting requests.\n\nReferences:\nhttp://highscalability.com/blog/2012/4/17/youtube-strategy-adding-jitter-isnt-a-bug.html\nhttps://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?gi=4024cdfafaf1\nhttps://www.researchgate.net/post/How_to_handle_million_request_per_second\n\nSocial Links:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xrizarXJgC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xrizarXJgC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xrizarXJgC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xrizarXJgC8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xrizarXJgC8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "System Design",
+          "Distributed systems",
+          "rate limiting",
+          "qps",
+          "request throttling",
+          "youtube architecture",
+          "system architecture",
+          "system design interview",
+          "large number of requests",
+          "thundering herd",
+          "request handling",
+          "request handler",
+          "mvc",
+          "handling requests",
+          "message queue",
+          "gaurav sen"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Avoid cascading failures in a distributed system",
+          "description": "In this video we solve the thundering herd problem. This problem occurs when there are a huge number of requests on the server, and this results in the server crashing due to overloading. One of the solutions to this problem is rate limiting. In a distributed environment, the rate limiting problem is a complex problem to solve.\n\nWhen designing systems on the server side, we often need to predict the capacity of a server and apply limits on the number of requests it can receive per second. This is mentioned in the service QPS document. QPS stands for queries per second.\n\nThe system design discussion helps us understand how to deal with requests based on priorities, how to deal with cascading failures, how to handle a large number of requests, viral posts or videos and their requirements.\n\nSome other scenarios like job scheduling or cron jobs being fired in batches is also discussed. We use batch processing and approximations to reduce server load.\n\nThe last few approaches include gradual deployments and using caches to store common requests information. This helps us improve performance. Improving QPS and performance helps us handle more requests, which means more users and more money for the product.\n\nCaching and coupling systems can also help improve performance. However, they must have time outs and appropriate cache eviction policies set while designing the system.\n\nRequest throttling is one of the many approaches we discuss, but it is the most important. Dropping requests helps the server recover and operate at the right requirement level.\n\nWe often use message queues for rate limiting requests.\n\nReferences:\nhttp://highscalability.com/blog/2012/4/17/youtube-strategy-adding-jitter-isnt-a-bug.html\nhttps://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a?gi=4024cdfafaf1\nhttps://www.researchgate.net/post/How_to_handle_million_request_per_second\n\nSocial Links:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT18M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

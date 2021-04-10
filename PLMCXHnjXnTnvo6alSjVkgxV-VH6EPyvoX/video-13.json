@@ -1,0 +1,78 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "2xsNRM9oAJjDv7iT3lfgIjlOvSk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "ekcO8wu9KqS_kpaz1gcJMGwIarg",
+      "id": "0myM0k1mjZw",
+      "snippet": {
+        "publishedAt": "2020-01-15T17:55:00Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "Capacity Estimation: How much data does YouTube store daily?",
+        "description": "Back of the envelope calculations are often expected in system design questions. They help logically state the parameters influencing a result, and estimating the capacity requires multiple estimations on the way. Also lets us individually state our assumptions.\n\nEg: Estimate the hardware requirements to set up a system like YouTube.\nEg: Estimate the number of petrol pumps in the city of Mumbai.\n\nChapters\n00:06 Storage Requirements\n01:20 Supplementary storage requirements\n03:54 Back of Envelope calculations\n05:38 Youtube caching estimation\n08:58 Youtube video processing estimation\n12:14 Conclusion\n\n------STORAGE\nLet's start with storage requirements:\nAbout 1 billion active users.\nI assume 1/1000 produces a video a day.\nWhich means 1 million new videos a day.\n\nWhat's the size of each video?\nAssume the average length of a video to be 10 minutes. \n Assume a 10 minute video to be of size 1 GB. Or...\nA video is a bunch of images. 10 minutes is 600 seconds. Each second has 24 frames. So a video has 25*600 = 150,000 frames.\n Each frame is of size 1 MB. Which means (1.5 * 10^5) * (10^6) bytes = 150 GB.\nThis estimate is very inaccurate, and hence we must either revise our estimate or hope the interviewer corrects us. Normal video of 10 minutes is about 700 MB.\n\nAs each video is of about 1GB, we assume the storage requirement per day is 1GB * 1 million = 1 PB. \n\nThis is the bare minimum storage requirement to store the original videos. If we want to have redundancy for fault tolerance and performance, we have to store copies. I'll choose 3 copies. \nThat's 3 petabytes of raw data storage.\nWhat about video formats and encoding? Let's assume a single type of encoding, mp4, and the formats will take a 720p video and store it in 480, 360, 240 and 144p respectively. That means approximately half the video size per codec.\n\nIf X is the original storage requirement = 1 PB,\nWe have X + X/2 + X/4 + X/8 == 2*X.\nWith redundancy, that's 2X * 3 = 6*X.\n\nThat's 6 PB(processed) + 3PB (raw)  == 10 PB of data. About 100 hard drives. The cost of this system is about 1 million per day.\n\nFor a 3 year plan, we can expect a 1 billion dollar storage price.\n\nNow let's look at the real numbers:\nVideo upload speed = 3 * 10^4 minutes per minute.\nThat's 3 * 10^4 *1440 video footage per day =  4.5 * 10^7 minutes.\nVideo encoding can reduce a 1 hour film to 1 GB. So 1 million GB is the requirement. That's 1 PB.\n\nSo the original cost is similar to what the real numbers say.\n\n\nIf we are off by an order of magnitude, it's good. However, being off by 3 or more orders of magnitude is too much. We can then highlight:\nWhere our assumption was wrong, or \nWhich factor we didn't take into account. \n\nReferences:\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\nhttp://highscalability.com/youtube-architecture\nhttps://www.youtube.com/watch?v=w5WVu624fY8\nNumbers everyone should know: https://www.youtube.com/watch?v=modXC5IWTJI\nhttp://www.youtube.com/watch?v=G-lGCC4KKok\nhttps://en.wikipedia.org/wiki/Back-of-the-envelope_calculation\nCapacity planning with AWS: https://youtu.be/-3qetLv2Yp0\n\nSystem Design Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nAlong with video lectures, this course has architecture diagrams, capacity planning, API contracts and evaluation tests. It's a complete package.\n\nUse the coupon code 'earlybird' for a 20% discount.\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nBecome a channel member!\nhttps://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/join\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nTwitter: https://twitter.com/gkcs_\n\n#CapacityPlanning #SystemDesign #YouTube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0myM0k1mjZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0myM0k1mjZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0myM0k1mjZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0myM0k1mjZw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0myM0k1mjZw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "interview preparation",
+          "interviews",
+          "software interview",
+          "gaurav sen",
+          "system design interview",
+          "capacity estimation",
+          "capacity planning",
+          "youtube data",
+          "storage estimation"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Capacity Estimation: How much data does YouTube store daily?",
+          "description": "Back of the envelope calculations are often expected in system design questions. They help logically state the parameters influencing a result, and estimating the capacity requires multiple estimations on the way. Also lets us individually state our assumptions.\n\nEg: Estimate the hardware requirements to set up a system like YouTube.\nEg: Estimate the number of petrol pumps in the city of Mumbai.\n\nChapters\n00:06 Storage Requirements\n01:20 Supplementary storage requirements\n03:54 Back of Envelope calculations\n05:38 Youtube caching estimation\n08:58 Youtube video processing estimation\n12:14 Conclusion\n\n------STORAGE\nLet's start with storage requirements:\nAbout 1 billion active users.\nI assume 1/1000 produces a video a day.\nWhich means 1 million new videos a day.\n\nWhat's the size of each video?\nAssume the average length of a video to be 10 minutes. \n Assume a 10 minute video to be of size 1 GB. Or...\nA video is a bunch of images. 10 minutes is 600 seconds. Each second has 24 frames. So a video has 25*600 = 150,000 frames.\n Each frame is of size 1 MB. Which means (1.5 * 10^5) * (10^6) bytes = 150 GB.\nThis estimate is very inaccurate, and hence we must either revise our estimate or hope the interviewer corrects us. Normal video of 10 minutes is about 700 MB.\n\nAs each video is of about 1GB, we assume the storage requirement per day is 1GB * 1 million = 1 PB. \n\nThis is the bare minimum storage requirement to store the original videos. If we want to have redundancy for fault tolerance and performance, we have to store copies. I'll choose 3 copies. \nThat's 3 petabytes of raw data storage.\nWhat about video formats and encoding? Let's assume a single type of encoding, mp4, and the formats will take a 720p video and store it in 480, 360, 240 and 144p respectively. That means approximately half the video size per codec.\n\nIf X is the original storage requirement = 1 PB,\nWe have X + X/2 + X/4 + X/8 == 2*X.\nWith redundancy, that's 2X * 3 = 6*X.\n\nThat's 6 PB(processed) + 3PB (raw)  == 10 PB of data. About 100 hard drives. The cost of this system is about 1 million per day.\n\nFor a 3 year plan, we can expect a 1 billion dollar storage price.\n\nNow let's look at the real numbers:\nVideo upload speed = 3 * 10^4 minutes per minute.\nThat's 3 * 10^4 *1440 video footage per day =  4.5 * 10^7 minutes.\nVideo encoding can reduce a 1 hour film to 1 GB. So 1 million GB is the requirement. That's 1 PB.\n\nSo the original cost is similar to what the real numbers say.\n\n\nIf we are off by an order of magnitude, it's good. However, being off by 3 or more orders of magnitude is too much. We can then highlight:\nWhere our assumption was wrong, or \nWhich factor we didn't take into account. \n\nReferences:\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\nhttp://highscalability.com/youtube-architecture\nhttps://www.youtube.com/watch?v=w5WVu624fY8\nNumbers everyone should know: https://www.youtube.com/watch?v=modXC5IWTJI\nhttp://www.youtube.com/watch?v=G-lGCC4KKok\nhttps://en.wikipedia.org/wiki/Back-of-the-envelope_calculation\nCapacity planning with AWS: https://youtu.be/-3qetLv2Yp0\n\nSystem Design Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nAlong with video lectures, this course has architecture diagrams, capacity planning, API contracts and evaluation tests. It's a complete package.\n\nUse the coupon code 'earlybird' for a 20% discount.\n\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nBecome a channel member!\nhttps://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw/join\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nTwitter: https://twitter.com/gkcs_\n\n#CapacityPlanning #SystemDesign #YouTube"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

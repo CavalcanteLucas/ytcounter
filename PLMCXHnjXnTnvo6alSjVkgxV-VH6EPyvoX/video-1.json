@@ -1,0 +1,83 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "8GJncaOlFryh4bVzinCfF2lhYCM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "ltQ9RGmjJRDbRc1clVv8yN2HROc",
+      "id": "xpDnVSmNFX0",
+      "snippet": {
+        "publishedAt": "2018-07-29T09:53:33Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "System Design Basics: Horizontal vs. Vertical Scaling",
+        "description": "Systems design a procedure by which we define the architecture of a system to satisfy given requirements. It is a technique by which the required amounts of scalability, reliability, performance and consistency are satisfied in real world systems.\n\nWe discuss how to start with system design and why it is required. The first concept in designing a system is scalability. We discuss the two main approaches to solve this problem: Horizontal scaling and vertical scaling.\n\nHorizontal scaling is adding more machines to deal with increasing requirements. These machines handle requests in parallel to improve user experience. \n\nVertical scaling is replacing the current machines with more advanced machines to improve throughput and hence response time. The techniques are used in conjunction in real world systems.\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nReferences:\nHarvard Lecture: https://www.youtube.com/watch?v=-W9F__D3oY4\nLoad balancing: https://www.youtube.com/watch?v=K0Ta65OqQkY\n\nSocial links:\n\nhttps://www.facebook.com/gkcs0/\nhttps://www.quora.com/profile/Gaurav-Sen-6\nhttps://github.com/gkcs\n\n#systemdesign #scalability #software",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xpDnVSmNFX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "horizontal scaling",
+          "vertical scaling",
+          "horizontal vs vertical scaling",
+          "system design basics",
+          "basics of system design",
+          "system design fundamentals",
+          "system design for beginners",
+          "beginners guide to system design",
+          "scalability",
+          "scalability basics",
+          "gaurav sen",
+          "gkcs",
+          "guide to system design",
+          "system design tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "System Design Basics: Horizontal vs. Vertical Scaling",
+          "description": "Systems design a procedure by which we define the architecture of a system to satisfy given requirements. It is a technique by which the required amounts of scalability, reliability, performance and consistency are satisfied in real world systems.\n\nWe discuss how to start with system design and why it is required. The first concept in designing a system is scalability. We discuss the two main approaches to solve this problem: Horizontal scaling and vertical scaling.\n\nHorizontal scaling is adding more machines to deal with increasing requirements. These machines handle requests in parallel to improve user experience. \n\nVertical scaling is replacing the current machines with more advanced machines to improve throughput and hence response time. The techniques are used in conjunction in real world systems.\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nReferences:\nHarvard Lecture: https://www.youtube.com/watch?v=-W9F__D3oY4\nLoad balancing: https://www.youtube.com/watch?v=K0Ta65OqQkY\n\nSocial links:\n\nhttps://www.facebook.com/gkcs0/\nhttps://www.quora.com/profile/Gaurav-Sen-6\nhttps://github.com/gkcs\n\n#systemdesign #scalability #software"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

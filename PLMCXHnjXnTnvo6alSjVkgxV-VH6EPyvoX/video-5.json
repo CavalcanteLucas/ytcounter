@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Mt_iKa-2G-p72leVj_DRA-vm7eE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "RvtPSb4qgxNHmjKWSOSMD2RM8PU",
+      "id": "oUJbuFMyBDk",
+      "snippet": {
+        "publishedAt": "2018-05-07T05:33:45Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "What is a Message Queue and Where is it used?",
+        "description": "Messaging Queues are widely use in asynchronous systems. Message processing in an asynchronous fashion allows the client to relieve itself from waiting for a task to complete and, hence, can do other jobs during that time. It also allows a server to process it's jobs in the order it wants to.\n\nMessaging Queues provide useful features such as persistence, routing and task management. We will be discussing the benefits of a message queue in future videos.\n\nA system having a message queue can move to higher level requirements while abstracting implementation details of message delivery and event handling to the messaging queue.\n\nThe 'queue' is just a name for this data structure. In practice, it could be storing messages using any policy. Some examples of message queues are Kafka and RabbitMQ. They are widely used for various purposes such as command query request segregation (CQRS) and event sourcing.\n\nCode: https://github.com/coding-parrot/Low-Level-Design/tree/master/distributed-event-bus\n\nSystem Design video course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nAsynchronous Request-Response:\nhttps://stackoverflow.com/questions/16715380/what-is-difference-between-asynchronous-http-request-and-synchronous-http-reques\nhttp://www.enterpriseintegrationpatterns.com/patterns/conversation/RequestResponse.html\n\nMessage Queue:\nhttp://blog.codepath.com/2013/01/06/asynchronous-processing-in-web-applications-part-2-developers-need-to-understand-message-queues/\nhttp://highscalability.com/blog/2012/12/17/11-uses-for-the-humble-presents-queue-er-message-queue.html\nhttps://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html\nhttps://www.rabbitmq.com/getstarted.html\n\nLoad Balancing:\nhttps://www.youtube.com/watch?v=zaRkONvyGr8\n\nYou can find me here:\nhttps://www.facebook.com/gkcs0/\nhttps://www.quora.com/profile/Gaurav-Sen-6\nhttps://github.com/gkcs/\n\n#message-queue #system-design #scalability #server",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oUJbuFMyBDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oUJbuFMyBDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oUJbuFMyBDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oUJbuFMyBDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oUJbuFMyBDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "System Design",
+          "Messaging Queue",
+          "Asynchronous Processing",
+          "Asynchronous request",
+          "message queue",
+          "system design interview",
+          "fault tolerance",
+          "system design question",
+          "asynchronous request response",
+          "Server architecture",
+          "IT interview question",
+          "message delivery",
+          "message queue basics",
+          "software interview",
+          "technical interview",
+          "gaurav sen",
+          "rabbitmq",
+          "rabbit mq"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is a Message Queue and Where is it used?",
+          "description": "Messaging Queues are widely use in asynchronous systems. Message processing in an asynchronous fashion allows the client to relieve itself from waiting for a task to complete and, hence, can do other jobs during that time. It also allows a server to process it's jobs in the order it wants to.\n\nMessaging Queues provide useful features such as persistence, routing and task management. We will be discussing the benefits of a message queue in future videos.\n\nA system having a message queue can move to higher level requirements while abstracting implementation details of message delivery and event handling to the messaging queue.\n\nThe 'queue' is just a name for this data structure. In practice, it could be storing messages using any policy. Some examples of message queues are Kafka and RabbitMQ. They are widely used for various purposes such as command query request segregation (CQRS) and event sourcing.\n\nCode: https://github.com/coding-parrot/Low-Level-Design/tree/master/distributed-event-bus\n\nSystem Design video course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nAsynchronous Request-Response:\nhttps://stackoverflow.com/questions/16715380/what-is-difference-between-asynchronous-http-request-and-synchronous-http-reques\nhttp://www.enterpriseintegrationpatterns.com/patterns/conversation/RequestResponse.html\n\nMessage Queue:\nhttp://blog.codepath.com/2013/01/06/asynchronous-processing-in-web-applications-part-2-developers-need-to-understand-message-queues/\nhttp://highscalability.com/blog/2012/12/17/11-uses-for-the-humble-presents-queue-er-message-queue.html\nhttps://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html\nhttps://www.rabbitmq.com/getstarted.html\n\nLoad Balancing:\nhttps://www.youtube.com/watch?v=zaRkONvyGr8\n\nYou can find me here:\nhttps://www.facebook.com/gkcs0/\nhttps://www.quora.com/profile/Gaurav-Sen-6\nhttps://github.com/gkcs/\n\n#message-queue #system-design #scalability #server"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

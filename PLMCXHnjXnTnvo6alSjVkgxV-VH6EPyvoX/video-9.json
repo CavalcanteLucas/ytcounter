@@ -1,0 +1,91 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "AITYEYvRS_FYxjiEwlc0PVGPLG4",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "zOu3skGFa206PGAMoeBDKSyC01A",
+      "id": "tndzLznxq40",
+      "snippet": {
+        "publishedAt": "2018-07-02T05:52:33Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "System Design: Tinder as a microservice architecture",
+        "description": "We design the system architecture of Tinder. Designing these apps starts with clarifying the system requirements. In an interview, Tinder has multiple requirements.\n\nWhen designing the system, we will be drawing logical components and defining their interactions with other services based on the microservice architecture. We assume that any internal details can be handled with our prior knowledge of system design concepts. This includes load balancing, message queues, databases etc...\n\nThe Tinder system has four requirements: storing profiles, recommendations, noting matches and chatting with matches. Storing profiles is trivial except for the image storage, where we argue on BLOB vs File storage. The distributed file architecture seems best when storing images.\n\nDirect Messaging or chatting with matches can be done using the XMPP protocol, which uses web sockets to have peer to peer communications between client and server. Each connection is built over TCP, ensuring that the connection is maintained. The session micro service can send messages to the receiver based on connection to user mappings.\n\nOur system is decoupled as much as possible. We try to maintain accept and reject information on the client. On swiping left or right, the client can note the action and avoid showing the same user again, perhaps using bloom filters.\n\nThe server has a validation engine called the matcher micro service, which notes matches and allows or disallows chat between two users.\n\nThe final requirement of recommendations needs city wise partitioning on the user data. This is achieved using NoSQL databases like Cassandra or Amazon Dynamo. The other option is to use relational databases with horizontal partitioning. The concept is now refered to as sharding.\n\nIf you have any doubts, suggestions or feedback, I love to hear them below. This system is by no means complete, but it is enough for an hour long interview.\n\nDisclaimer: The video does not contain or suggest the internal implementation of Tinder. The system we design is purely imaginary and has no links with the real app. I am sure the engineers at Tinder have done better than this!\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nArchitecture Diagram: https://pbs.twimg.com/media/D0tmpOKU0AEE_CW.jpg:large\nSystem Design Playlist - \nhttps://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nCDN - \nhttps://www.akamai.com/us/en/resources/content-distribution-network.jsp\nhttps://en.wikipedia.org/wiki/Content_delivery_network\n\nConsistent Hashing -\nhttps://youtu.be/zaRkONvyGr8\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_\n\n#system-design #software #interview #tinder",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tndzLznxq40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tndzLznxq40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tndzLznxq40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tndzLznxq40/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tndzLznxq40/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "System Design",
+          "System Architecture",
+          "Tinder System",
+          "Interview Question",
+          "Image storage",
+          "blob vs file",
+          "file vs blob",
+          "Direct messaging",
+          "xmpp",
+          "chat system",
+          "messaging protocol",
+          "decoupling",
+          "sharding",
+          "horizontal partitioning",
+          "noSQL",
+          "database",
+          "scalability",
+          "request handling",
+          "system availability",
+          "partitioning",
+          "design question",
+          "system design question",
+          "gaurav sen",
+          "load balancing"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "System Design: Tinder as a microservice architecture",
+          "description": "We design the system architecture of Tinder. Designing these apps starts with clarifying the system requirements. In an interview, Tinder has multiple requirements.\n\nWhen designing the system, we will be drawing logical components and defining their interactions with other services based on the microservice architecture. We assume that any internal details can be handled with our prior knowledge of system design concepts. This includes load balancing, message queues, databases etc...\n\nThe Tinder system has four requirements: storing profiles, recommendations, noting matches and chatting with matches. Storing profiles is trivial except for the image storage, where we argue on BLOB vs File storage. The distributed file architecture seems best when storing images.\n\nDirect Messaging or chatting with matches can be done using the XMPP protocol, which uses web sockets to have peer to peer communications between client and server. Each connection is built over TCP, ensuring that the connection is maintained. The session micro service can send messages to the receiver based on connection to user mappings.\n\nOur system is decoupled as much as possible. We try to maintain accept and reject information on the client. On swiping left or right, the client can note the action and avoid showing the same user again, perhaps using bloom filters.\n\nThe server has a validation engine called the matcher micro service, which notes matches and allows or disallows chat between two users.\n\nThe final requirement of recommendations needs city wise partitioning on the user data. This is achieved using NoSQL databases like Cassandra or Amazon Dynamo. The other option is to use relational databases with horizontal partitioning. The concept is now refered to as sharding.\n\nIf you have any doubts, suggestions or feedback, I love to hear them below. This system is by no means complete, but it is enough for an hour long interview.\n\nDisclaimer: The video does not contain or suggest the internal implementation of Tinder. The system we design is purely imaginary and has no links with the real app. I am sure the engineers at Tinder have done better than this!\n\nSystem Design Video Course: \nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nA complete course on how systems are designed. Along with video lectures, the course has architectural diagrams, capacity planning, API contracts and evaluation tests. \n\nUse the coupon code 'earlybird' for a 20% discount!\n\nArchitecture Diagram: https://pbs.twimg.com/media/D0tmpOKU0AEE_CW.jpg:large\nSystem Design Playlist - \nhttps://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nCDN - \nhttps://www.akamai.com/us/en/resources/content-distribution-network.jsp\nhttps://en.wikipedia.org/wiki/Content_delivery_network\n\nConsistent Hashing -\nhttps://youtu.be/zaRkONvyGr8\n\nYou can follow me on:\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/\nInstagram: https://www.instagram.com/applepie404/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nTwitter: https://twitter.com/gkcs_\n\n#system-design #software #interview #tinder"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT36M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

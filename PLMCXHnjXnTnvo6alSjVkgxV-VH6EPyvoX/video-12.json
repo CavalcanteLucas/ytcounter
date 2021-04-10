@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "-nFFdtGAIsh23YQQ_TVMpU7gyeQ",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "T74EZn3GMlLyFfTrR4kbSXJpP6w",
+      "id": "_YlYuNMTCc8",
+      "snippet": {
+        "publishedAt": "2019-03-17T13:33:05Z",
+        "channelId": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "title": "What is an API and how do you design it?",
+        "description": "An API or application programmable interface is a software contract which defines the expectations and interactions of a piece of code exposed to external users. This includes the parameters, response, errors and API name.\n\nWe discuss how to design an API and what it takes to make the design scalable, extensible and easy to use. HTTP APIs are widely used in software systems. HTTP is a stateless protocol and systems often expose APIs using it.\n\nReferences:\nhttps://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b\nhttps://swagger.io/docs/specification/about/\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nPreparing for design Interviews? Check out the System Design course:\nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_YlYuNMTCc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_YlYuNMTCc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_YlYuNMTCc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_YlYuNMTCc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_YlYuNMTCc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gaurav Sen",
+        "tags": [
+          "system design",
+          "interview preparation",
+          "interviews",
+          "software interview",
+          "design interview",
+          "programming interview",
+          "gaurav sen",
+          "api design",
+          "application programmable interface",
+          "application programming interface",
+          "what is api",
+          "what is an api",
+          "api parameters",
+          "http api",
+          "api endpoint",
+          "http endpoint"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is an API and how do you design it?",
+          "description": "An API or application programmable interface is a software contract which defines the expectations and interactions of a piece of code exposed to external users. This includes the parameters, response, errors and API name.\n\nWe discuss how to design an API and what it takes to make the design scalable, extensible and easy to use. HTTP APIs are widely used in software systems. HTTP is a stateless protocol and systems often expose APIs using it.\n\nReferences:\nhttps://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b\nhttps://swagger.io/docs/specification/about/\nDesigning Data Intensive Applications - https://amzn.to/2yQIrxH\nSystem Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX\n\nPreparing for design Interviews? Check out the System Design course:\nhttps://get.interviewready.io/courses/system-design-interview-prep\n\nYou can follow me on:\nFacebook: https://facebook.com/gkcs0/\nQuora: https://www.quora.com/profile/Gaurav-Sen-6\nLinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
