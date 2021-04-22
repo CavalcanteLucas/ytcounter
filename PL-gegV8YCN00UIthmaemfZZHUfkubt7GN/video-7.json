@@ -1,0 +1,68 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "yCvlcKomSmzk50CjhudnvP_BLHM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "K2mK5vcuuksDQg1iJX-hu9Hjq74",
+      "id": "gHLqroFX2Eg",
+      "snippet": {
+        "publishedAt": "2018-03-04T22:11:50Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 7 - Analyzing Architecture: Structural Decay",
+        "description": "In this lesson Mark Richards describes the expectation of an architect to continually analyze architecture to ensure architecture vitality, and defines what it means to detect structural decay in an architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gHLqroFX2Eg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gHLqroFX2Eg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gHLqroFX2Eg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gHLqroFX2Eg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "software architecture",
+          "mark richards",
+          "software architecture training",
+          "training",
+          "analyzing architecture",
+          "developer to architect"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 7 - Analyzing Architecture: Structural Decay",
+          "description": "In this lesson Mark Richards describes the expectation of an architect to continually analyze architecture to ensure architecture vitality, and defines what it means to detect structural decay in an architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M18S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

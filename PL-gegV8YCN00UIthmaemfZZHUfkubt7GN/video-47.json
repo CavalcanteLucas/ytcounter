@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "0AzE0Pbv-NgZ18JsXfRRIhXVEWo",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "sLODii0fVl9ZNdMHKDHJVmBFt_o",
+      "id": "WZBFngeBYgQ",
+      "snippet": {
+        "publishedAt": "2019-02-02T22:52:37Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 47 - Channel Monitoring Pattern",
+        "description": "The Channel Monitoring Pattern of reactive architecture allows systems to be programmatically self-aware in terms of loads on message queues. This foundational pattern then allows other patterns such as the Supervisor Consumer pattern and Thread Delegate pattern to react programmatically to increase responsiveness, elasticity, and resiliency. Through demos and source code, Mark Richards shows how this pattern works using the Java API and simple messaging using RabbitMQ. Mark also shows how to implement this pattern in JMS as well. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WZBFngeBYgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WZBFngeBYgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WZBFngeBYgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WZBFngeBYgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WZBFngeBYgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Reactive",
+          "Reactive Architecture"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 47 - Channel Monitoring Pattern",
+          "description": "The Channel Monitoring Pattern of reactive architecture allows systems to be programmatically self-aware in terms of loads on message queues. This foundational pattern then allows other patterns such as the Supervisor Consumer pattern and Thread Delegate pattern to react programmatically to increase responsiveness, elasticity, and resiliency. Through demos and source code, Mark Richards shows how this pattern works using the Java API and simple messaging using RabbitMQ. Mark also shows how to implement this pattern in JMS as well. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

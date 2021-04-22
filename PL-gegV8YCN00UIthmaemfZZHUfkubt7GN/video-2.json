@@ -1,0 +1,66 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "nbBySzHQJC7ZEgoQSpKt99Vcog8",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "4-GS4ktIyD8g28E698fVRwuW8eA",
+      "id": "lwMjjTT1Q-Q",
+      "snippet": {
+        "publishedAt": "2018-01-29T01:39:25Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 2 - Kafka vs. Standard Messaging",
+        "description": "In this lesson Mark Richards describes and demonstrates the core differences between Apache Kafka and standard messaging (e.g., ActiveMQ, RabbitMQ, etc.). Knowing when to use each is vitally important, because each has its strengths and weaknesses and making the wrong choice can directly impact your overall architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lwMjjTT1Q-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lwMjjTT1Q-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lwMjjTT1Q-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "software architecture",
+          "training",
+          "kafka",
+          "apache kafka",
+          "architecture lessons",
+          "architecture monday",
+          "lessons",
+          "technology",
+          "messaging",
+          "developer to architect"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 2 - Kafka vs. Standard Messaging",
+          "description": "In this lesson Mark Richards describes and demonstrates the core differences between Apache Kafka and standard messaging (e.g., ActiveMQ, RabbitMQ, etc.). Knowing when to use each is vitally important, because each has its strengths and weaknesses and making the wrong choice can directly impact your overall architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT6M20S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

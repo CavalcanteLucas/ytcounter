@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "WuBmKp3jkjk8t1NK-7fmh77FMGk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "tesDfaFOxV8lVEd9n27TyRRNhKQ",
+      "id": "wgpSdpny-0c",
+      "snippet": {
+        "publishedAt": "2018-09-09T17:15:45Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 32 - Diagramming Software Architecture",
+        "description": "Software Architecture Monday resumes after a brief summer vacation. In this lesson Mark Richards describes some of the challenges associated with diagramming software architecture, and shows several key tips for creating effective architecture diagrams. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wgpSdpny-0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wgpSdpny-0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wgpSdpny-0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wgpSdpny-0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wgpSdpny-0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Software Architecture",
+          "Developer To Architect",
+          "Software Architecture Training",
+          "Diagramming Architecture",
+          "ArchiMate"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 32 - Diagramming Software Architecture",
+          "description": "Software Architecture Monday resumes after a brief summer vacation. In this lesson Mark Richards describes some of the challenges associated with diagramming software architecture, and shows several key tips for creating effective architecture diagrams. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11M3S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "JOairO7x8wBopWQrBrwhbnAvmko",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "TrO6dxZokBm0lXhqvEqCfNDMm84",
+      "id": "pUGvXUBfvEE",
+      "snippet": {
+        "publishedAt": "2018-04-09T00:04:25Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 12 - CQRS and Microservices",
+        "description": "In this architecture lesson Mark Richards describes the CQRS pattern (Command Query Responsibility Segregation) and shows how it can be applied in a Microservices architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUGvXUBfvEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUGvXUBfvEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUGvXUBfvEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pUGvXUBfvEE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pUGvXUBfvEE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "microservices",
+          "Software Architecture",
+          "Software Architecture Training",
+          "CQRS",
+          "Mark Richards",
+          "developer to architect"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 12 - CQRS and Microservices",
+          "description": "In this architecture lesson Mark Richards describes the CQRS pattern (Command Query Responsibility Segregation) and shows how it can be applied in a Microservices architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT7M48S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

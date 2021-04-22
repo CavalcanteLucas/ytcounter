@@ -1,0 +1,68 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "18KFNr96TEeCV_jjiNvMpF2mVg4",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "nWggGQEIzAnApHro_amX30OU_3I",
+      "id": "U7s7Hb6GZCU",
+      "snippet": {
+        "publishedAt": "2018-03-25T22:20:06Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 10 - Analyzing Architecture: Microservices",
+        "description": "Continuing the analyzing architecture lessons, Mark Richards describes some macro architecture analysis techniques specific to Microservices. Microservices has some significant architectural restrictions with respect to preserving the high levels of agility, testability, deployability, scalability, and availability (fault tolerance) found in this architecture style. However, as you will see in this short architecture lesson, it is easy to violate some of the core rules of microservices, leading to a collapse of this architecture style. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U7s7Hb6GZCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U7s7Hb6GZCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U7s7Hb6GZCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U7s7Hb6GZCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "software architecture",
+          "microservices",
+          "mark richards",
+          "training",
+          "analyzing architecture",
+          "software architecture training",
+          "developer to architect"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 10 - Analyzing Architecture: Microservices",
+          "description": "Continuing the analyzing architecture lessons, Mark Richards describes some macro architecture analysis techniques specific to Microservices. Microservices has some significant architectural restrictions with respect to preserving the high levels of agility, testability, deployability, scalability, and availability (fault tolerance) found in this architecture style. However, as you will see in this short architecture lesson, it is easy to violate some of the core rules of microservices, leading to a collapse of this architecture style. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT7M",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

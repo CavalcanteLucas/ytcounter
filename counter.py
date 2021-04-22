@@ -110,7 +110,7 @@ def main_func(playlist_url):
             youtube_client = get_youtube_client()
 
         playlist_items_data = get_playlist_items_data_from_api(
-            youtube_client=youtube_client, max_results=30, playlist_url=playlist_url
+            youtube_client=youtube_client, max_results=999, playlist_url=playlist_url
         )
         print(
             f"Obtained playlist data with {playlist_items_data['pageInfo']['totalResults']} videos"

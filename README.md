@@ -76,10 +76,12 @@ Example:
 
 ## References:
 
-- Basic reference for getting `PlaylistItems` data from **YouTubeAPIv3**: https://developers.google.com/youtube/v3/docs/playlistItems/list
-- Further instructions for running these codes locally: https://developers.google.com/explorer-help/guides/code_samples#python
+- Basic reference for getting `PlaylistItems` data from **YouTubeAPIv3**
+  - https://developers.google.com/youtube/v3/docs/playlistItems/list
+- Further instructions for running these codes locally
+  - https://developers.google.com/explorer-help/guides/code_samples#python
 - Add external users:
-    - https://console.cloud.google.com/
+  - https://console.cloud.google.com/
     - API e serviços
     - Credenciais
     - Editar cliente OAuth
@@ -87,8 +89,24 @@ Example:
     - Add users
 
 ## TODO:
-- Add header to logfile
+
+- Integrate with Django and YouTube API
+  - https://www.toptal.com/django/youtube-api-integration-uploading-videos
+  - https://www.toptal.com/django/integrate-oauth-2-into-django-drf-back-end
+- Gerar politica de privacidade para publicar aplicacao:
+  - https://www.nuvemshop.com.br/ferramentas/gerador-politica-de-privacidade
+- Add to "Instructions of use"
+  - Tell user to clone the project
+  - Tell user to create `client_secrets.json`
+  - Show authentication cycle illustration
+    - Link generation
+    - OAuth screenshots
+- Add header to logfile (??)
 - Add tests
-    - Second column must be increasing
-    - Third column must be decreasing
-    - Last element of third column must be 00:00:00
+  - Second column must be increasing
+  - Third column must be decreasing
+  - Last element of third column must be 00:00:00
+- Work for playlists with more than 50 videos
+- Make download of missing videos metadata in a partially downloaded playlist
+- Create 'metadata' directory to include all downloaded data
+  - Add 'metadata' dir to .gitignore file

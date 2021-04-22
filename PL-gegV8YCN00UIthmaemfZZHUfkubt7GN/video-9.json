@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "0S3BdC0xQnQEqJYsBJtHdxTlDyg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "8mcuRmoo4yPvK_rwh8vR_nukJ9Y",
+      "id": "h1So8tVukS8",
+      "snippet": {
+        "publishedAt": "2018-03-18T13:28:16Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 9 - Analyzing Architecture: Macro Techniques",
+        "description": "In the last lesson Mark Richards talked about architecture components as the focus for analyzing architecture. In this lesson he talks about some of the general macro techniques for analyzing architecture - ways of detecting structural decay without looking at source code, regardless of the architecture pattern and style you are using. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h1So8tVukS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h1So8tVukS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h1So8tVukS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h1So8tVukS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h1So8tVukS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "software architecture",
+          "analyzing architecture",
+          "mark richards",
+          "developer to architect",
+          "software architecture training",
+          "training"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 9 - Analyzing Architecture: Macro Techniques",
+          "description": "In the last lesson Mark Richards talked about architecture components as the focus for analyzing architecture. In this lesson he talks about some of the general macro techniques for analyzing architecture - ways of detecting structural decay without looking at source code, regardless of the architecture pattern and style you are using. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT8M40S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

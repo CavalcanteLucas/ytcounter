@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Y-o0pOXMIxQC-JZce4o27pbLudA",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "nl3hllJQvor-vMw7pa4E4iB6lZA",
+      "id": "52haYbu80e8",
+      "snippet": {
+        "publishedAt": "2018-05-11T16:08:10Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 17 - Architecture Tradeoffs",
+        "description": "Part of the process of creating an architecture is identifying and defining the architectural characteristics of an application or system (\u201c-ilities\u201d). In this lesson Mark Richards discusses two common architecture tradeoff analysis methodologies, ATAM (Architecture Tradeoff Analysis Method) and CBAM (Cost-Benefit Analysis Method). Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/52haYbu80e8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/52haYbu80e8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/52haYbu80e8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/52haYbu80e8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/52haYbu80e8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Tradeoff Analysis",
+          "ATAM",
+          "CBAM",
+          "Vasa"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 17 - Architecture Tradeoffs",
+          "description": "Part of the process of creating an architecture is identifying and defining the architectural characteristics of an application or system (\u201c-ilities\u201d). In this lesson Mark Richards discusses two common architecture tradeoff analysis methodologies, ATAM (Architecture Tradeoff Analysis Method) and CBAM (Cost-Benefit Analysis Method). Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M2S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

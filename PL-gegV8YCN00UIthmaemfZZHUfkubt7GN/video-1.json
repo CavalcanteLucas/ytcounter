@@ -1,0 +1,65 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "MMMltX0DHwGPS9Kz4oSESIGVJig",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "tKXs_UiLV29BzBjn8k4q4wji2ks",
+      "id": "3bxAm3XIFmk",
+      "snippet": {
+        "publishedAt": "2018-01-08T23:11:08Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 1 - Event-Driven Architecture: Request/Reply Pattern",
+        "description": "In this first lesson Mark talks about how to do request/reply processing within an event-driven architecture. Even though messaging is an asynchronous protocol, there are times when we need to wait for a response when using messaging and queues. This short architecture lesson will show you how to do this. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3bxAm3XIFmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3bxAm3XIFmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3bxAm3XIFmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "software architecture",
+          "mark richards",
+          "training",
+          "architecture training",
+          "architecture lessons",
+          "architecture monday",
+          "lessons",
+          "technology",
+          "developer to architect"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 1 - Event-Driven Architecture: Request/Reply Pattern",
+          "description": "In this first lesson Mark talks about how to do request/reply processing within an event-driven architecture. Even though messaging is an asynchronous protocol, there are times when we need to wait for a response when using messaging and queues. This short architecture lesson will show you how to do this. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M54S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

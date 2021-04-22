@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "oFOHAekTgt4GVIUFNmfFboCXvPM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "MZwdyzqJ0QkwMzJxsr6lHXiRKRs",
+      "id": "dkLriZLXpU8",
+      "snippet": {
+        "publishedAt": "2018-02-18T20:52:52Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 5 - Microservices: Reducing Staging Iterations",
+        "description": "In this architecture lesson Mark talks about some techniques for reducing staging iterations when migrating to a Microservices architecture or even creating one from greenfield. A staging iteration is an iteration of architecture transformation or architecture development that \u201csets the stage\u201d for further application development without actually changing the architecture (e.g., setting up a messaging infrastructure or establishing a devops environment).  Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dkLriZLXpU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dkLriZLXpU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dkLriZLXpU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "software architecture",
+          "software architecture training",
+          "developer to architect",
+          "microservices",
+          "architecture",
+          "staging iterations",
+          "migration",
+          "mark richards"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 5 - Microservices: Reducing Staging Iterations",
+          "description": "In this architecture lesson Mark talks about some techniques for reducing staging iterations when migrating to a Microservices architecture or even creating one from greenfield. A staging iteration is an iteration of architecture transformation or architecture development that \u201csets the stage\u201d for further application development without actually changing the architecture (e.g., setting up a messaging infrastructure or establishing a devops environment).  Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT9M47S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

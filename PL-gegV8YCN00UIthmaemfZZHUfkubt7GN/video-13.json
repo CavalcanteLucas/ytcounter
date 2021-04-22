@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "zbSm8jEsYK9S9lNveXmajlLppZM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "KFnXEl42XUQsgWA0hU7kmOTz8Js",
+      "id": "n_7PCFkxPPw",
+      "snippet": {
+        "publishedAt": "2018-04-17T15:13:45Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson13 - Microservices and Reporting",
+        "description": "In the Microservices architecture style it is necessary to distribute data between service domains to maintain the ever-important bounded context. However, one problem that exists when highly distributing data is how to then do reporting functionality off of that distributed data. In this lesson Mark Richards illustrates some reporting patterns and discusses which ones work and which ones don\u2019t within a microservices ecosystem. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_7PCFkxPPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_7PCFkxPPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_7PCFkxPPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_7PCFkxPPw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n_7PCFkxPPw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "mark richards",
+          "developer to architect",
+          "software architecture",
+          "software architecture training",
+          "microservices",
+          "reporting"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson13 - Microservices and Reporting",
+          "description": "In the Microservices architecture style it is necessary to distribute data between service domains to maintain the ever-important bounded context. However, one problem that exists when highly distributing data is how to then do reporting functionality off of that distributed data. In this lesson Mark Richards illustrates some reporting patterns and discusses which ones work and which ones don\u2019t within a microservices ecosystem. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7M24S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

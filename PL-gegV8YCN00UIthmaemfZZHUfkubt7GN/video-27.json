@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "XZwOztKlcctYsUEjWAzByBXGS8E",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "ms7NbZs-ZX0af4cJxgB2TvvwRFc",
+      "id": "Cyh4t9SMbJ0",
+      "snippet": {
+        "publishedAt": "2018-07-22T22:00:40Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 27 - Circuit Breaker Pattern",
+        "description": "In this lesson Mark Richards describes the issues associated with availability and responsiveness when communicating remotely to microservices, and shows how the circuit breaker pattern can significantly increase performance and responsiveness in your microservices (or any remote) application. Mark also shows how the circuit breaker pattern works, and demonstrates the different types of circuit breakers (and which type is most effective). Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cyh4t9SMbJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cyh4t9SMbJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cyh4t9SMbJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cyh4t9SMbJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cyh4t9SMbJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Microservices",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Circuit Breaker",
+          "Timeouts"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 27 - Circuit Breaker Pattern",
+          "description": "In this lesson Mark Richards describes the issues associated with availability and responsiveness when communicating remotely to microservices, and shows how the circuit breaker pattern can significantly increase performance and responsiveness in your microservices (or any remote) application. Mark also shows how the circuit breaker pattern works, and demonstrates the different types of circuit breakers (and which type is most effective). Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M20S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

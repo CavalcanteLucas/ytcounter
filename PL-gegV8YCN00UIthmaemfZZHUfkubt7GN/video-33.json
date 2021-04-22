@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "9-CZkui2WfA8hUc2aH9ts0uCo90",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "ETcMh2VjujWw573GI79DWIaIIk4",
+      "id": "19icj4UsSjs",
+      "snippet": {
+        "publishedAt": "2018-09-16T17:42:10Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 33 - Creating a Service Taxonomy",
+        "description": "In this lesson Mark Richards describes the types of services that exist in a typical microservices ecosystem and how to create a service taxonomy using annotations that will help organize, govern, and categorize your microservices. Stay tuned for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/19icj4UsSjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/19icj4UsSjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/19icj4UsSjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/19icj4UsSjs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/19icj4UsSjs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Microservices",
+          "Software Architecture Monday",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Service Taxonomy"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 33 - Creating a Service Taxonomy",
+          "description": "In this lesson Mark Richards describes the types of services that exist in a typical microservices ecosystem and how to create a service taxonomy using annotations that will help organize, govern, and categorize your microservices. Stay tuned for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M15S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

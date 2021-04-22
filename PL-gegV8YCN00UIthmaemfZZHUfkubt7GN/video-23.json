@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "q9P4NYYvQW3gm78-nW9PPYyC77w",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "82-hOo9i7sAI47VNDHlPLlZLaCw",
+      "id": "cYENNwDK2dA",
+      "snippet": {
+        "publishedAt": "2018-06-24T19:41:52Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 23 - Orchestration vs Choreography",
+        "description": "When communicating between services or applications, you need to choose between orchestration and choreography. But what is the difference between these two modes of communication? To a large extent it depends on the nature of the request and the granularity of your applications or services. In this lesson Mark Richards illustrates the differences between orchestration and choreography within a microservices ecosystem by linking these concepts to well-known analogies. Using a microservices example, Mark illustrates how each of these work and when to use each. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cYENNwDK2dA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cYENNwDK2dA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cYENNwDK2dA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cYENNwDK2dA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cYENNwDK2dA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Microservices",
+          "Orchestration",
+          "Choreography"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 23 - Orchestration vs Choreography",
+          "description": "When communicating between services or applications, you need to choose between orchestration and choreography. But what is the difference between these two modes of communication? To a large extent it depends on the nature of the request and the granularity of your applications or services. In this lesson Mark Richards illustrates the differences between orchestration and choreography within a microservices ecosystem by linking these concepts to well-known analogies. Using a microservices example, Mark illustrates how each of these work and when to use each. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M19S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

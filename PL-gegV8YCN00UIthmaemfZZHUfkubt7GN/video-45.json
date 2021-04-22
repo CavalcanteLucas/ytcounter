@@ -1,0 +1,68 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "TVMwdQu-uqO3lZB6mNulybEFVcE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "OM0G-Mn6uBHvuVDJfuTikXSfbGA",
+      "id": "PKIypT8vmIc",
+      "snippet": {
+        "publishedAt": "2019-01-20T00:00:53Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 45 - Microservices Gateway Pattern",
+        "description": "In this lesson Mark Richards shows how to effectively communicate between Microservices and third-party or custom applications using the Microservices gateway pattern. This pattern is usually implemented through a single adapter (gateway) microservice that handles all the protocol transformation and contract transformation necessary to communicate with the outside system. Mark will demonstrate the Microservices gateway pattern by illustrating multiple microservices needing to communicate to a custom COBOL mainframe payment system. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PKIypT8vmIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PKIypT8vmIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PKIypT8vmIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PKIypT8vmIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Microservices",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Microservices Training"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 45 - Microservices Gateway Pattern",
+          "description": "In this lesson Mark Richards shows how to effectively communicate between Microservices and third-party or custom applications using the Microservices gateway pattern. This pattern is usually implemented through a single adapter (gateway) microservice that handles all the protocol transformation and contract transformation necessary to communicate with the outside system. Mark will demonstrate the Microservices gateway pattern by illustrating multiple microservices needing to communicate to a custom COBOL mainframe payment system. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

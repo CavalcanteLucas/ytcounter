@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "dAsEG9xoJcm0t49MaVGvQSGKd30",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "O4-j34WsrBLQGkI_NArQXH_QZyE",
+      "id": "mcPZhbkxzRU",
+      "snippet": {
+        "publishedAt": "2019-02-24T19:41:44Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 50 - Model Driven Approach",
+        "description": "In this lesson Mark Richards describes the Model-Driven approach to enterprise architecture, and also discusses to advantages and disadvantages of this traditional EA approach. He also discusses how the Zachman Framework can be used with this approach to enterprise architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mcPZhbkxzRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mcPZhbkxzRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mcPZhbkxzRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mcPZhbkxzRU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mcPZhbkxzRU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Enterprise Architecture",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Software Modeling"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 50 - Model Driven Approach",
+          "description": "In this lesson Mark Richards describes the Model-Driven approach to enterprise architecture, and also discusses to advantages and disadvantages of this traditional EA approach. He also discusses how the Zachman Framework can be used with this approach to enterprise architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

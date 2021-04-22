@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "t4hzTZFAUck9gYSjBZCj0db6Swc",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "PH8IVBMXFQlC8jT9mDblu9zpLZo",
+      "id": "OjL1o4QBXrg",
+      "snippet": {
+        "publishedAt": "2019-02-17T21:45:26Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 49 - What is Enterprise Architecture?",
+        "description": "Ask 10 people what enterprise architecture is and you will get 10 different answers. In this lesson Mark Richards provides a definition and context of what Enterprise Architecture is and sets the stage for further lessons about enterprise architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OjL1o4QBXrg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OjL1o4QBXrg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OjL1o4QBXrg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OjL1o4QBXrg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OjL1o4QBXrg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Enterprise Architecture",
+          "Software Architecture Training"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 49 - What is Enterprise Architecture?",
+          "description": "Ask 10 people what enterprise architecture is and you will get 10 different answers. In this lesson Mark Richards provides a definition and context of what Enterprise Architecture is and sets the stage for further lessons about enterprise architecture. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

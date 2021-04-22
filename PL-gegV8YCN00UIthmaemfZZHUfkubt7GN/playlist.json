@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "XRt95SV8ji-U8HpYqcR7WnT0nQI",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "et6ufj9cVFfE2XFB0uhXOCeNKvk",
+      "id": "PL-gegV8YCN00UIthmaemfZZHUfkubt7GN",
+      "snippet": {
+        "publishedAt": "2019-10-28T16:50:10Z",
+        "channelId": "UCv-54xg4mhM_itzoWNZRO9A",
+        "title": "Software Architecture Monday",
+        "description": "By Mark Richards",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3bxAm3XIFmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3bxAm3XIFmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3bxAm3XIFmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sharief Youssef",
+        "localized": {
+          "title": "Software Architecture Monday",
+          "description": "By Mark Richards"
+        }
+      }
+    }
+  ]
+}

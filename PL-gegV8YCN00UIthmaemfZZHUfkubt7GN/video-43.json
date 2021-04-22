@@ -1,0 +1,69 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "LNm_4432OyKP70rN8cN75XqpjMo",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "dfgENY9jqmGkqAe_hmvdt9mNFk0",
+      "id": "R0gSwuS8zTM",
+      "snippet": {
+        "publishedAt": "2019-01-06T05:00:26Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 43 - Microservices Orchestration Pattern",
+        "description": "In a microservices ecosystem orchestration between microservices should not be performed in the API Gateway, but rather through a dedicated microservice orchestrator. In this lesson Mark Richards shows why this is important and also illustrates the use of a separate microservice to handle each orchestration request from the API layer. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R0gSwuS8zTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R0gSwuS8zTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R0gSwuS8zTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R0gSwuS8zTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Microservices",
+          "Microservices Orchestration",
+          "Software Architecture Training",
+          "Microservice gateway"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 43 - Microservices Orchestration Pattern",
+          "description": "In a microservices ecosystem orchestration between microservices should not be performed in the API Gateway, but rather through a dedicated microservice orchestrator. In this lesson Mark Richards shows why this is important and also illustrates the use of a separate microservice to handle each orchestration request from the API layer. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

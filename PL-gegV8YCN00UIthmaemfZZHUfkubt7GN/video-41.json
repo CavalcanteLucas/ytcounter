@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "NDFzT3iwrR0yCshUREtDaQX4qq0",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "FxKc6vic7owa843jnYt-ZSMbltI",
+      "id": "iUpD4ZS8qg4",
+      "snippet": {
+        "publishedAt": "2018-11-11T19:06:33Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 41 - Microservices Contract Versioning",
+        "description": "In this lesson Mark Richards discusses versioning within a microservices ecosystem and shows why and how to do contract-level versioning within microservices. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iUpD4ZS8qg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iUpD4ZS8qg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iUpD4ZS8qg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iUpD4ZS8qg4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iUpD4ZS8qg4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Microservices",
+          "Contract Versioning"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 41 - Microservices Contract Versioning",
+          "description": "In this lesson Mark Richards discusses versioning within a microservices ecosystem and shows why and how to do contract-level versioning within microservices. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

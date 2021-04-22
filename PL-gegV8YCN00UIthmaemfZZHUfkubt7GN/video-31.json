@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "LMMfV-WwAAMFI4_Q3xObaEmyUxc",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "unipUElqReNOBuu5CIyZZBSXnzM",
+      "id": "pJc0l2DASpo",
+      "snippet": {
+        "publishedAt": "2018-08-16T15:40:23Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 31 - Presenting Architecture",
+        "description": "In this lesson Mark Richards shows some tips for how to effectively present software architecture to any type of stakeholder - developers, managers, architects, product owners, and c-level executives. He covers expansion joints, accordion slides, use of animations, dimensions and focus, and finally build-outs. Through this lesson Mark also shows examples of each of these techniques. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pJc0l2DASpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pJc0l2DASpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pJc0l2DASpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pJc0l2DASpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pJc0l2DASpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Presentation Skills"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 31 - Presenting Architecture",
+          "description": "In this lesson Mark Richards shows some tips for how to effectively present software architecture to any type of stakeholder - developers, managers, architects, product owners, and c-level executives. He covers expansion joints, accordion slides, use of animations, dimensions and focus, and finally build-outs. Through this lesson Mark also shows examples of each of these techniques. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M48S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

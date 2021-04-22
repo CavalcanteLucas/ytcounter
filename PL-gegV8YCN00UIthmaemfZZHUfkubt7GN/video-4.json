@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "n9iHyJqMFh7Xe-NeUvKGgaiWL94",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "t0da9DkU5wvUyh0MPCPgPzdUt-U",
+      "id": "S511BgBs_3E",
+      "snippet": {
+        "publishedAt": "2018-02-11T18:35:37Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 4 - Microservices: Distributed Logging",
+        "description": "In this lesson Mark talks about some tips about distributed logging within a Microservices architecture (or any highly distributed architecture) and how to make it work. It\u2019s not all about Splunk... Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S511BgBs_3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S511BgBs_3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S511BgBs_3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S511BgBs_3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S511BgBs_3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "software architecture",
+          "software architecture training",
+          "training",
+          "logging",
+          "microservices",
+          "mark richards",
+          "developer to architect"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 4 - Microservices: Distributed Logging",
+          "description": "In this lesson Mark talks about some tips about distributed logging within a Microservices architecture (or any highly distributed architecture) and how to make it work. It\u2019s not all about Splunk... Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14M16S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

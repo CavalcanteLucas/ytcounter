@@ -1,0 +1,75 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "KTQUQ16zEJRnUpfsq9VhRI_2ltM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "hGK85wyqKprFxEBsEK1OQ9ZgEvA",
+      "id": "nJMLoQmM1gc",
+      "snippet": {
+        "publishedAt": "2018-09-30T14:47:57Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 35 - Watch Notification Pattern",
+        "description": "In this lesson Mark Richards describes the watch notification pattern, an effective way to do connectionless notification (particularly within a large microservices ecosystem). He introduces this pattern through an example of automatically pushing updates to configuration parameters stored in an external configuration server. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nJMLoQmM1gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nJMLoQmM1gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nJMLoQmM1gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nJMLoQmM1gc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nJMLoQmM1gc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Microservices",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Watch Pattern",
+          "Notification",
+          "Configuration"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 35 - Watch Notification Pattern",
+          "description": "In this lesson Mark Richards describes the watch notification pattern, an effective way to do connectionless notification (particularly within a large microservices ecosystem). He introduces this pattern through an example of automatically pushing updates to configuration parameters stored in an external configuration server. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M28S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

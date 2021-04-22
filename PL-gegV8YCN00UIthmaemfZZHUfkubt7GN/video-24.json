@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "4BzphWl2x86Buz3fGojKoFhCfC8",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Vq2xGm0ut4JT0tkqYjjGEl7nZH8",
+      "id": "WP60uc0JXjk",
+      "snippet": {
+        "publishedAt": "2018-07-02T16:39:48Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 24 - Lean Modeling Concepts",
+        "description": "Modeling the enterprise (or even an application or microservices ecosystem) is one of the biggest challenges an architect faces. Not only does diagramming take too long, but once you\u2019ve created a diagram you constantly need to maintain it and keep it up to date. Another problem with modeling is that diagrams sometimes get in the way of the information that is needed bu the models. In this lesson Mark Richards describes the concept of lean modeling, first introduced by Matthew Kern in an article in the LinkedIn group enterprise architecture forum. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WP60uc0JXjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WP60uc0JXjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WP60uc0JXjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WP60uc0JXjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WP60uc0JXjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Lean Modeling"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 24 - Lean Modeling Concepts",
+          "description": "Modeling the enterprise (or even an application or microservices ecosystem) is one of the biggest challenges an architect faces. Not only does diagramming take too long, but once you\u2019ve created a diagram you constantly need to maintain it and keep it up to date. Another problem with modeling is that diagrams sometimes get in the way of the information that is needed bu the models. In this lesson Mark Richards describes the concept of lean modeling, first introduced by Matthew Kern in an article in the LinkedIn group enterprise architecture forum. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

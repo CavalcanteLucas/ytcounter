@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "GH5wANktf1OXyhugwUb87pS-fzE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "NqYXi6mdHVt_HpHreQEH330pfak",
+      "id": "s0v44dkZdRs",
+      "snippet": {
+        "publishedAt": "2018-11-03T22:09:36Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 40 - Common Integration Patterns",
+        "description": "In Lesson 39 Mark Richards demonstrated the power of integration hubs and when to use them. In this follow-on lesson, Mark leverages a real-world stock trading example along with code using Apache Camel and describes five of the more common integration architecture patterns. Although Mark will be showing an implementation using Apache Camel for each pattern, it is not necessary to know (or even care about) Apache Camel. It is only used to provide a concrete example and implementation of each integration pattern.  Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s0v44dkZdRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s0v44dkZdRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s0v44dkZdRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s0v44dkZdRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s0v44dkZdRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Integration Architecture",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Integration Patterns",
+          "Apache Camel"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 40 - Common Integration Patterns",
+          "description": "In Lesson 39 Mark Richards demonstrated the power of integration hubs and when to use them. In this follow-on lesson, Mark leverages a real-world stock trading example along with code using Apache Camel and describes five of the more common integration architecture patterns. Although Mark will be showing an implementation using Apache Camel for each pattern, it is not necessary to know (or even care about) Apache Camel. It is only used to provide a concrete example and implementation of each integration pattern.  Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M28S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

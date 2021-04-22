@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "uw5FKGSYdfXa5TMLOlSHRlip8aU",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "jKtPVAw9hgWTmBx2njGV6gdwoFk",
+      "id": "pgcCBKdDR6A",
+      "snippet": {
+        "publishedAt": "2018-09-24T01:45:16Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 34 - Creating Service Domains",
+        "description": "In this lesson Mark Richards describes why service domains are so important in a microservices ecosystem and several techniques for defining service domains from both a logical and physical standpoint. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pgcCBKdDR6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pgcCBKdDR6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pgcCBKdDR6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pgcCBKdDR6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pgcCBKdDR6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Microservices",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Developer To Architect",
+          "Service Domains"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 34 - Creating Service Domains",
+          "description": "In this lesson Mark Richards describes why service domains are so important in a microservices ecosystem and several techniques for defining service domains from both a logical and physical standpoint. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M57S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

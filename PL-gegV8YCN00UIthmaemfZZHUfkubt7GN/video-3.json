@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "twOOsaNEZlVBep7UqOzjwVfu34s",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "DE8GoPHXXt4hoa9xrVEUunf63Pc",
+      "id": "vRplv975ce0",
+      "snippet": {
+        "publishedAt": "2018-02-04T22:57:02Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 3 - Soft Skills: Gaining Technical Breadth",
+        "description": "In this lesson Mark Richards talks about what the difference is between technical depth vs. breadth and describes some tips and tricks he uses to gaining technical breadth, something every software architect must learn to do. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vRplv975ce0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vRplv975ce0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vRplv975ce0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vRplv975ce0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vRplv975ce0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "software architecture",
+          "training",
+          "software architecture training",
+          "mark richards",
+          "developer to architect",
+          "soft skills",
+          "technology"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 3 - Soft Skills: Gaining Technical Breadth",
+          "description": "In this lesson Mark Richards talks about what the difference is between technical depth vs. breadth and describes some tips and tricks he uses to gaining technical breadth, something every software architect must learn to do. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT9M39S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

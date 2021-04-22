@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "aoTRUpPNmr-HGQGxVUczKXC76iY",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "o7Sj071-6HjDW_MZKIziy5dHQXc",
+      "id": "UZxLYv5RFyI",
+      "snippet": {
+        "publishedAt": "2018-05-19T15:07:37Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 18 - The Fallacies of Distributed Computing",
+        "description": "In this lesson Mark Richards reviews the 8 fallacies of distributed computing, something that we face as both developers and architects when breaking apart our monolithic applications into distributed architectures like Service-based architecture or Microservices. Knowing and understanding these 8 fallacies will save you time, money, and pain when moving to distributed architectures. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UZxLYv5RFyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UZxLYv5RFyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UZxLYv5RFyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UZxLYv5RFyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UZxLYv5RFyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Distributed Computing",
+          "Distributed Architecture",
+          "Microservices"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 18 - The Fallacies of Distributed Computing",
+          "description": "In this lesson Mark Richards reviews the 8 fallacies of distributed computing, something that we face as both developers and architects when breaking apart our monolithic applications into distributed architectures like Service-based architecture or Microservices. Knowing and understanding these 8 fallacies will save you time, money, and pain when moving to distributed architectures. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT6M44S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

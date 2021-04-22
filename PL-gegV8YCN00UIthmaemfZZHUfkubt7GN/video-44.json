@@ -1,0 +1,67 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "rRlADcX9skerpGGiNojMx0D9Hvg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "sYGvN2Qc2PlEO-6A8wQDeIEkyEQ",
+      "id": "fZkMxA_TKS4",
+      "snippet": {
+        "publishedAt": "2019-01-13T15:07:37Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 44 - Microservices Aggregation Pattern",
+        "description": "In the prior lesson (lesson 44) Mark Richards showed how to do orchestration within a microservices ecosystem. But what about those type of requests that span too many microservices? In this lesson Mark Richards describes some of the issues and limitations of the microservices orchestration pattern and explains how the microservices aggregation pattern works. Using actual real-world examples, Mark also shows the core differences between orchestration and aggregation and when to use each.  Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fZkMxA_TKS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fZkMxA_TKS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fZkMxA_TKS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fZkMxA_TKS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Developer To Architect",
+          "Mark Richards",
+          "Microservices",
+          "Software Architecture",
+          "Software Architecture Training"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 44 - Microservices Aggregation Pattern",
+          "description": "In the prior lesson (lesson 44) Mark Richards showed how to do orchestration within a microservices ecosystem. But what about those type of requests that span too many microservices? In this lesson Mark Richards describes some of the issues and limitations of the microservices orchestration pattern and explains how the microservices aggregation pattern works. Using actual real-world examples, Mark also shows the core differences between orchestration and aggregation and when to use each.  Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

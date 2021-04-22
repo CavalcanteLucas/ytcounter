@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "5yx5UftyDWgIarNRIs-3p74wHGw",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "WkMyZ9RWgNu1ZuBXAinSJJ4tAHI",
+      "id": "2X-aMMCN2oQ",
+      "snippet": {
+        "publishedAt": "2018-11-18T10:51:16Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 42 - Deferred Data Migration",
+        "description": "Breaking up a database into separate schemas to support the bounded context of a microservices is hard. It\u2019s one thing to logically partition a database into separate schemas (data domains), but quite a another to physically move the data. When do you \u201cpull the plug\u201d and physically move tables and data? In this lesson Mark Richards describes a technique called Deferred Data Migration to reduce the risk associated with moving data. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2X-aMMCN2oQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2X-aMMCN2oQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2X-aMMCN2oQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2X-aMMCN2oQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2X-aMMCN2oQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Software Architecture",
+          "Microservices",
+          "Developer To Architect",
+          "Software Architecture Training"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 42 - Deferred Data Migration",
+          "description": "Breaking up a database into separate schemas to support the bounded context of a microservices is hard. It\u2019s one thing to logically partition a database into separate schemas (data domains), but quite a another to physically move the data. When do you \u201cpull the plug\u201d and physically move tables and data? In this lesson Mark Richards describes a technique called Deferred Data Migration to reduce the risk associated with moving data. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "b7bwf0G4UVwTv85hSZXwmeREZ5w",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "-upHtoxw6Y7eIIx4IFzveR5MoBQ",
+      "id": "7SKX9gVjDzc",
+      "snippet": {
+        "publishedAt": "2018-10-21T19:03:30Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 38 - Identifying Microservices",
+        "description": "One of the many difficult aspects of the microservices architecture style is identifying a microservice. What is the proper level of granularity? What factors influence the granularity of a service? In this lesson Mark Richards shows how to combine a function-driven approach, data-driven approach, and a request-based approach to achieve the right level of granularity for a microservice. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7SKX9gVjDzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7SKX9gVjDzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7SKX9gVjDzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7SKX9gVjDzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7SKX9gVjDzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Microservices",
+          "Software Training",
+          "Software Architecture Training"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 38 - Identifying Microservices",
+          "description": "One of the many difficult aspects of the microservices architecture style is identifying a microservice. What is the proper level of granularity? What factors influence the granularity of a service? In this lesson Mark Richards shows how to combine a function-driven approach, data-driven approach, and a request-based approach to achieve the right level of granularity for a microservice. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M29S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

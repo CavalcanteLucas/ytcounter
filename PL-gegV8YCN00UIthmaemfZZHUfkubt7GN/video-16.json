@@ -1,0 +1,70 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "AirIQTfIQEtJ5geDbR2IoQ3tO3I",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "xMKgfwAQT3svupgd5DEzEgDVz1A",
+      "id": "RefvolwEOIc",
+      "snippet": {
+        "publishedAt": "2018-05-06T19:36:47Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 16 - The Challenges of Architecture Teams",
+        "description": "In this lesson Mark Richards discusses some of the anti-patterns associated with working in architecture teams and offers up some pragmatic advice for how to resolve conflicts to arrive at a unified and clear vision for an architectural solution. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RefvolwEOIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RefvolwEOIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RefvolwEOIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RefvolwEOIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RefvolwEOIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Architecture Teams"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 16 - The Challenges of Architecture Teams",
+          "description": "In this lesson Mark Richards discusses some of the anti-patterns associated with working in architecture teams and offers up some pragmatic advice for how to resolve conflicts to arrive at a unified and clear vision for an architectural solution. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT6M47S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

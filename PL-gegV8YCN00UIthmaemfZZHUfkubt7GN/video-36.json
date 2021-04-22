@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "o9obVI0SMRPEz6badN8gH_pJ1f8",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "kMPW9NdhBYNp4D3hzuSchY-9ujc",
+      "id": "hZj0qiAE7hM",
+      "snippet": {
+        "publishedAt": "2018-10-07T21:37:41Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 36 - Embedded Messaging",
+        "description": "In this lesson Mark Richards combines both animations and source code to show how to embed a message broker (ActiveMQ) into your service or application. Embedding a message broker into your service or deployment unit helps eliminate bottlenecks and also provide for a broker less topology between services. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hZj0qiAE7hM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hZj0qiAE7hM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hZj0qiAE7hM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hZj0qiAE7hM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hZj0qiAE7hM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Messaging",
+          "Embedded Messaging",
+          "Microservices"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 36 - Embedded Messaging",
+          "description": "In this lesson Mark Richards combines both animations and source code to show how to embed a message broker (ActiveMQ) into your service or application. Embedding a message broker into your service or deployment unit helps eliminate bottlenecks and also provide for a broker less topology between services. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7M7S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

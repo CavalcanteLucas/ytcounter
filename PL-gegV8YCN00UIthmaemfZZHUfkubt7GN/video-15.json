@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Jnu_WaaZV8LHBcvm30iag5fzYSg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "ED5p9D6wI3CJKZnR04UU-4cxy98",
+      "id": "z2QjN6KKOQQ",
+      "snippet": {
+        "publishedAt": "2018-04-21T03:16:37Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 15 - Refactoring: Business Justification",
+        "description": "In this lesson Mark Richards talks about how to justify architecture refactoring efforts from a business justification standpoint. Is there any business value associated with your proposed architecture refactoring? If so, can you quantify that business value? Mark looks at the various business metrics you can gather to quantify your proposal and move your refactoring effort forward. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z2QjN6KKOQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z2QjN6KKOQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z2QjN6KKOQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z2QjN6KKOQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z2QjN6KKOQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "software Architecture",
+          "Software Architecture Training",
+          "refactoring",
+          "microservices",
+          "business justification"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 15 - Refactoring: Business Justification",
+          "description": "In this lesson Mark Richards talks about how to justify architecture refactoring efforts from a business justification standpoint. Is there any business value associated with your proposed architecture refactoring? If so, can you quantify that business value? Mark looks at the various business metrics you can gather to quantify your proposal and move your refactoring effort forward. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT9M17S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "jGxGom8LhmvPvpqQzRnJYC_kUSk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "LQeMNyOwcE0jlg3v0z6DGpPQtWg",
+      "id": "pELKNy8B5Nw",
+      "snippet": {
+        "publishedAt": "2018-04-01T21:44:10Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 11 - Analyzing Architecture: Code Metrics",
+        "description": "In this final installment of the analyzing architecture lessons, Mark Richards describes the metrics he uses as an architect to analyze software architecture by looking at the source code. The trick to analyzing source code to detect architectural decay is sifting out the signal from the noise. Mark shows you which metrics are important to an architect and why. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pELKNy8B5Nw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pELKNy8B5Nw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pELKNy8B5Nw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pELKNy8B5Nw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pELKNy8B5Nw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Software Architecture",
+          "Software Architecture Training",
+          "Mark Richards",
+          "Analyzing Architecture",
+          "Code Metrics",
+          "Microservices",
+          "Developer To Architect"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 11 - Analyzing Architecture: Code Metrics",
+          "description": "In this final installment of the analyzing architecture lessons, Mark Richards describes the metrics he uses as an architect to analyze software architecture by looking at the source code. The trick to analyzing source code to detect architectural decay is sifting out the signal from the noise. Mark shows you which metrics are important to an architect and why. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M32S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

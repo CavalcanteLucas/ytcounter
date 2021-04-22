@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "uMVIXxVWtM5qKu8IhXPViEjjbAk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Hq-4t8HiQDN2yCC-MnvyAOZaTD8",
+      "id": "1eAwAHwswRM",
+      "snippet": {
+        "publishedAt": "2018-07-28T18:39:13Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 28 - Service Design Patterns",
+        "description": "In this lesson Mark Richards  \u201copens up and looks under the hood\u201d inside a service (microservice or macro service) and describes 2 different design patterns - the direct access design and the api access design. Mark explains each of these design patterns and then shows why the api access design pattern is a much better way to design a service. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1eAwAHwswRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1eAwAHwswRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1eAwAHwswRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1eAwAHwswRM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1eAwAHwswRM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Microservices",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Service Design"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 28 - Service Design Patterns",
+          "description": "In this lesson Mark Richards  \u201copens up and looks under the hood\u201d inside a service (microservice or macro service) and describes 2 different design patterns - the direct access design and the api access design. Mark explains each of these design patterns and then shows why the api access design pattern is a much better way to design a service. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M46S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

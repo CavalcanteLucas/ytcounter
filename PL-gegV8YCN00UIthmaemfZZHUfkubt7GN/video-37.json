@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "PilUqTXC05S8u12SxB4-p2bfrd4",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "a-BHM0DXQjNXkNiTcuw91ch44mQ",
+      "id": "oP9Q9dpTomA",
+      "snippet": {
+        "publishedAt": "2018-10-15T13:16:31Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 37 - Translating Quality Attributes to Business Concerns",
+        "description": "Business users and architects must use a common language to properly communicate business goals and objectives. However, architects talk in \u201c-ilities\u201d, or non-functional quality attributes, and business users talk in terms of business needs. Using these two languages leads to confusion, and ultimately business goals that are not met by the architecture. In this lesson Mark Richards answers a question from a recent software architecture training class - how does an architect translate non-functional quality attributes (\u201c-ilities\u201d) to business users? Mark shows how the \u201c-ilities\u201d architects use do in fact translate to business needs and what those mappings are. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oP9Q9dpTomA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oP9Q9dpTomA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oP9Q9dpTomA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oP9Q9dpTomA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oP9Q9dpTomA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Developer To Architect",
+          "Non Functional Quality Attributes",
+          "Software Architecture Lessons"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 37 - Translating Quality Attributes to Business Concerns",
+          "description": "Business users and architects must use a common language to properly communicate business goals and objectives. However, architects talk in \u201c-ilities\u201d, or non-functional quality attributes, and business users talk in terms of business needs. Using these two languages leads to confusion, and ultimately business goals that are not met by the architecture. In this lesson Mark Richards answers a question from a recent software architecture training class - how does an architect translate non-functional quality attributes (\u201c-ilities\u201d) to business users? Mark shows how the \u201c-ilities\u201d architects use do in fact translate to business needs and what those mappings are. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M40S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

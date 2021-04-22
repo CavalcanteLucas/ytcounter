@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "OJOTIG55ZGcITHKDTiTW8ATzmHU",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "gJAxbg5sQt-3wIKmU9gL4EmoATo",
+      "id": "U36JoWr2rDk",
+      "snippet": {
+        "publishedAt": "2018-08-11T19:32:55Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 30 - Agile and Architecture",
+        "description": "In this lesson Mark Richards talks about the role of a software architect in an agile project, and whether an architect is needed or not. Mark starts this lesson by talking about some of the challenges associated with having an architect on an agile team, and then describes the role and activities of a software architect in iteration 0 and beyond. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U36JoWr2rDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U36JoWr2rDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U36JoWr2rDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U36JoWr2rDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U36JoWr2rDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Agile"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 30 - Agile and Architecture",
+          "description": "In this lesson Mark Richards talks about the role of a software architect in an agile project, and whether an architect is needed or not. Mark starts this lesson by talking about some of the challenges associated with having an architect on an agile team, and then describes the role and activities of a software architect in iteration 0 and beyond. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M52S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

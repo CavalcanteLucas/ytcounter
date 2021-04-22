@@ -1,0 +1,75 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "iytOPOEV9JFoGHK2DtxxFZWU_1Y",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "BMTOMu0gADO7e1Ufs9UDUWGmCMU",
+      "id": "aLLWyL7u1vw",
+      "snippet": {
+        "publishedAt": "2018-10-28T15:11:52Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 39 - Integration Hubs",
+        "description": "The words \"Enterprise Service Bus\u201d (ESB) usually bring back horrible memories of really expensive, over-bloated, over-complicated software within an SOA architecture that ties systems together like glue, making it really difficult to make any change, big or small. These days I like to call ESBs \u201cIntegration Hubs\u201d. Same thing, different name. What\u2019s changed? Mostly a better understanding of when to use them and how to use them effectively. In this lesson Mark Richards shows when to consider using an integration hub and the core capabilities they provide. Forget SOA - integration hubs are a very valuable part of decoupling systems, and don\u2019t need to be overly complex. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLLWyL7u1vw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLLWyL7u1vw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLLWyL7u1vw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aLLWyL7u1vw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aLLWyL7u1vw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Integration Architecture",
+          "ESB",
+          "Enterprise Service Bus",
+          "SOA",
+          "Software Architecture Training"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 39 - Integration Hubs",
+          "description": "The words \"Enterprise Service Bus\u201d (ESB) usually bring back horrible memories of really expensive, over-bloated, over-complicated software within an SOA architecture that ties systems together like glue, making it really difficult to make any change, big or small. These days I like to call ESBs \u201cIntegration Hubs\u201d. Same thing, different name. What\u2019s changed? Mostly a better understanding of when to use them and how to use them effectively. In this lesson Mark Richards shows when to consider using an integration hub and the core capabilities they provide. Forget SOA - integration hubs are a very valuable part of decoupling systems, and don\u2019t need to be overly complex. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M34S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

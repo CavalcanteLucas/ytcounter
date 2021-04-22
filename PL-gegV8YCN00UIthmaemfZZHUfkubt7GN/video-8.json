@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "fgjXuO9_CFcgUjtaZrzABjUHmMY",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "WWOCoNZ14FLI6SjpKxgCbtV8BaA",
+      "id": "jrohK2unyE8",
+      "snippet": {
+        "publishedAt": "2018-03-11T23:27:38Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 8 - Analyzing Architecture: Components",
+        "description": "In this lesson Mark Richards continues the analyzing architecture topic by talking about components, what they are, and the context in which an architect analyzes an architecture. This topic sets the grounding for the upcoming analyzing architecture topics. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jrohK2unyE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jrohK2unyE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jrohK2unyE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jrohK2unyE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jrohK2unyE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "software architecture",
+          "software architecture training",
+          "analyzing architecture",
+          "architecture",
+          "mark richards",
+          "developer to architect"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 8 - Analyzing Architecture: Components",
+          "description": "In this lesson Mark Richards continues the analyzing architecture topic by talking about components, what they are, and the context in which an architect analyzes an architecture. This topic sets the grounding for the upcoming analyzing architecture topics. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT6M37S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

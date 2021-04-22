@@ -1,0 +1,77 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "6v0XNrBw4ThgY6gvaz1P2ycCNmE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "jhDXi5UVqYks89AErHKUvEoEX4M",
+      "id": "2qpdjKWNwi0",
+      "snippet": {
+        "publishedAt": "2018-07-08T23:21:36Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 25 - Architectural Abstraction",
+        "description": "In this lesson Mark Richards talks about the uses of architectural abstraction, the various types (levels) of abstraction, and then analyzes messaging, adapters, rest, and message bus in terms of the levels of abstraction each support. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2qpdjKWNwi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2qpdjKWNwi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2qpdjKWNwi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2qpdjKWNwi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2qpdjKWNwi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture Monday",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Architectural Abstraction",
+          "Messaging",
+          "REST",
+          "Message Bus",
+          "Adapter"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 25 - Architectural Abstraction",
+          "description": "In this lesson Mark Richards talks about the uses of architectural abstraction, the various types (levels) of abstraction, and then analyzes messaging, adapters, rest, and message bus in terms of the levels of abstraction each support. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M23S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

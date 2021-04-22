@@ -1,0 +1,67 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "vTlpIO3XCoaP1tCV0An7jV_oMgM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "q6ynZUjhvX7EPSXh47Mo5YYLzRo",
+      "id": "dc20BQ9izs8",
+      "snippet": {
+        "publishedAt": "2019-01-27T16:31:47Z",
+        "channelId": "UC-Z7T0lAq_xECevIz8E5R5w",
+        "title": "Lesson 46 - Reactive Architecture Intro",
+        "description": "Reactive architecture patterns allow you to build self-aware, self-configuring and self-healing systems that can react to changes in the environment without human intervention. In this Lesson Mark Richards walks you through an introduction to various patterns of reactive architecture and talks about the differences between reactive architecture and reactive programming. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dc20BQ9izs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dc20BQ9izs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dc20BQ9izs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dc20BQ9izs8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mark Richards",
+        "tags": [
+          "Mark Richards",
+          "Developer To Architect",
+          "Software Architecture",
+          "Software Architecture Training",
+          "Reactive Architecture"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lesson 46 - Reactive Architecture Intro",
+          "description": "Reactive architecture patterns allow you to build self-aware, self-configuring and self-healing systems that can react to changes in the environment without human intervention. In this Lesson Mark Richards walks you through an introduction to various patterns of reactive architecture and talks about the differences between reactive architecture and reactive programming. Stay tuned each Monday for more lessons in Software Architecture at https://www.developertoarchitect.com/lessons/."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
